@@ -1,0 +1,501 @@
+Risk_ID,Year,Company,Industry,Risk_Category,Risk_Type,AI_Adoption_Rate,Competitor_AI_Investment_USD_B,Market_Share_Change_Pct,Customer_Churn_Rate_Pct,Inventory_Turnover_Improvement_Pct,Likelihood_Score_1_9,Impact_Score_1_9,Probability_0_1,Financial_Impact_USD_M,Expected_Loss_USD_M,Risk_Priority,Outcome,Risk_Score
+RE001,2024,Home Depot,Grocery,Financial,Data Breach,0.7,1.71,-6.06,8.64,25.22,9,2,0.88,7036.0,6192.0,Medium,Partial Loss,18
+RE002,2021,Kroger,Pharmacy,Compliance,Customer Attrition,0.63,20.92,-5.65,14.74,2.81,5,2,0.74,1645.0,1217.0,Low,Loss Avoided,10
+RE003,2022,Walmart,Consumer Electronics,Technology,Customer Attrition,0.74,21.18,-7.86,7.31,25.56,5,1,0.58,9761.0,5661.0,Low,Loss Realized,5
+RE004,2024,Walgreens,Pharmacy,Competitive,Workforce Resistance,0.18,7.48,-7.84,8.19,22.63,5,4,0.22,13027.0,2866.0,Medium,Loss Avoided,20
+RE005,2020,Kroger,E-Commerce,Reputational,Regulatory Non-Compliance,0.13,11.84,1.12,14.85,21.19,7,1,0.65,12431.0,8080.0,Low,Loss Realized,7
+RE006,2022,Kroger,Consumer Electronics,Reputational,Data Breach,0.51,11.24,0.05,4.24,14.64,9,2,0.61,9410.0,5740.0,Medium,Partial Loss,18
+RE007,2022,Best Buy,Grocery,Operational,Revenue Loss,0.41,5.85,-4.09,14.2,3.62,1,2,0.59,1175.0,693.0,Low,Partial Loss,2
+RE008,2024,Costco,Consumer Electronics,Reputational,Market Share Erosion,0.47,10.22,-0.32,1.6,9.82,3,6,0.49,1730.0,848.0,Medium,Loss Realized,18
+RE009,2019,Home Depot,Retail,Compliance,Legacy Integration Failure,0.89,1.59,-3.65,7.25,22.77,1,8,0.53,787.0,417.0,Low,Loss Avoided,8
+RE010,2020,Costco,Consumer Electronics,Financial,Supply Chain Disruption,0.88,7.31,2.48,1.98,-3.89,7,2,0.35,3899.0,1365.0,Low,Partial Loss,14
+RE011,2024,Target,Retail,Compliance,AI Model Failure,0.85,20.51,2.64,11.21,22.37,5,9,0.52,2078.0,1081.0,High,Opportunity Captured,45
+RE012,2020,Best Buy,Consumer Electronics,Operational,Regulatory Non-Compliance,0.73,7.47,-3.68,9.52,3.4,3,9,0.23,3938.0,906.0,Medium,Loss Avoided,27
+RE013,2020,Walgreens,Retail,Compliance,Regulatory Non-Compliance,0.38,20.55,1.4,10.89,0.05,7,1,0.77,5807.0,4471.0,Low,Opportunity Captured,7
+RE014,2022,Costco,E-Commerce,Financial,Regulatory Non-Compliance,0.43,13.52,0.5,6.24,-0.95,7,1,0.22,14148.0,3113.0,Low,Loss Avoided,7
+RE015,2021,Amazon,Pharmacy,Technology,Market Share Erosion,0.54,22.06,-4.59,6.17,-4.05,7,8,0.13,9175.0,1193.0,High,Loss Avoided,56
+RE016,2020,Dollar General,Grocery,Operational,Market Share Erosion,0.76,14.58,-5.45,1.63,13.33,3,8,0.44,12533.0,5515.0,Medium,Partial Loss,24
+RE017,2023,Target,Consumer Electronics,Technology,Supply Chain Disruption,0.15,1.23,-2.96,5.9,2.64,3,6,0.64,10670.0,6829.0,Medium,Loss Avoided,18
+RE018,2022,Walmart,Pharmacy,Competitive,Revenue Loss,0.44,17.05,0.59,14.01,29.63,9,4,0.44,1732.0,762.0,Medium,Loss Avoided,36
+RE019,2019,Walgreens,Grocery,Technology,Data Breach,0.17,1.6,2.56,6.31,15.11,9,1,0.3,11052.0,3316.0,Low,Loss Avoided,9
+RE020,2021,Target,Grocery,Competitive,Regulatory Non-Compliance,0.51,11.54,0.4,12.64,-0.17,1,8,0.55,4163.0,2290.0,Low,Partial Loss,8
+RE021,2023,Dollar General,Retail,Competitive,Customer Attrition,0.82,23.27,1.41,12.79,19.11,3,1,0.36,9605.0,3458.0,Low,Partial Loss,3
+RE022,2023,Best Buy,E-Commerce,Technology,Vendor Dependency,0.73,4.55,-1.37,6.23,26.42,3,8,0.89,5147.0,4581.0,Medium,Loss Avoided,24
+RE023,2019,Dollar General,E-Commerce,Operational,Customer Attrition,0.28,10.05,1.19,9.85,21.08,3,2,0.88,14965.0,13169.0,Low,Loss Avoided,6
+RE024,2021,Kroger,Pharmacy,Financial,Workforce Resistance,0.88,18.38,0.63,2.34,-2.32,9,1,0.5,3990.0,1995.0,Low,Loss Avoided,9
+RE025,2022,Dollar General,E-Commerce,Compliance,Customer Attrition,0.63,22.12,-3.85,2.45,26.36,7,2,0.35,4223.0,1478.0,Low,Loss Avoided,14
+RE026,2018,Kroger,Consumer Electronics,Compliance,Workforce Resistance,0.11,16.94,-1.93,1.68,22.79,5,1,0.71,13964.0,9914.0,Low,Loss Realized,5
+RE027,2021,Best Buy,E-Commerce,Financial,Legacy Integration Failure,0.3,6.83,0.85,9.13,0.54,9,4,0.08,418.0,33.0,Medium,Partial Loss,36
+RE028,2019,CVS,Pharmacy,Competitive,Vendor Dependency,0.31,17.03,-7.49,6.96,-3.19,3,6,0.48,10466.0,5024.0,Medium,Loss Avoided,18
+RE029,2023,Kroger,E-Commerce,Competitive,Customer Attrition,0.16,7.77,0.89,8.67,14.51,9,9,0.35,10894.0,3813.0,High,Loss Avoided,81
+RE030,2022,Walmart,Consumer Electronics,Operational,Legacy Integration Failure,0.87,18.1,-6.04,8.3,0.46,1,9,0.88,12554.0,11048.0,Low,Loss Realized,9
+RE031,2021,Dollar General,Retail,Reputational,AI Model Failure,0.48,23.87,-2.34,5.9,24.21,3,9,0.06,14618.0,877.0,Medium,Loss Realized,27
+RE032,2018,Dollar General,Pharmacy,Technology,Data Breach,0.82,18.17,0.89,10.48,7.54,1,2,0.55,14635.0,8049.0,Low,Opportunity Captured,2
+RE033,2018,Walmart,Retail,Competitive,Legacy Integration Failure,0.36,21.64,-5.21,11.62,26.95,3,8,0.72,1026.0,739.0,Medium,Loss Avoided,24
+RE034,2020,Amazon,Retail,Compliance,Data Breach,0.2,0.55,-5.3,1.2,14.8,9,9,0.49,12336.0,6045.0,High,Loss Realized,81
+RE035,2020,Home Depot,Retail,Operational,Customer Attrition,0.48,18.08,-3.57,3.9,1.39,7,4,0.13,9712.0,1263.0,Medium,Loss Avoided,28
+RE036,2024,CVS,Grocery,Technology,Revenue Loss,0.19,20.82,1.84,10.99,-0.11,5,9,0.93,9728.0,9047.0,High,Loss Avoided,45
+RE037,2019,Walgreens,Grocery,Operational,Legacy Integration Failure,0.49,1.49,-8.0,6.41,15.18,1,1,0.52,1969.0,1024.0,Low,Loss Realized,1
+RE038,2021,Kroger,Retail,Technology,Vendor Dependency,0.84,21.85,1.92,10.27,21.67,9,2,0.6,9770.0,5862.0,Medium,Loss Avoided,18
+RE039,2021,Walmart,Pharmacy,Technology,Customer Attrition,0.52,6.79,-6.31,5.86,22.35,7,1,0.26,14738.0,3832.0,Low,Loss Avoided,7
+RE040,2024,Best Buy,Consumer Electronics,Financial,Regulatory Non-Compliance,0.59,16.8,2.89,6.47,4.65,9,1,0.49,13682.0,6704.0,Low,Loss Avoided,9
+RE041,2023,Kroger,Consumer Electronics,Competitive,Market Share Erosion,0.23,20.11,2.5,3.22,2.15,1,1,0.44,6615.0,2911.0,Low,Loss Avoided,1
+RE042,2023,Home Depot,E-Commerce,Operational,Legacy Integration Failure,0.13,16.74,-2.56,4.62,-4.41,5,6,0.12,647.0,78.0,Medium,Loss Avoided,30
+RE043,2024,Best Buy,Pharmacy,Operational,Vendor Dependency,0.19,2.76,-2.36,9.48,18.77,9,6,0.15,5466.0,820.0,High,Opportunity Captured,54
+RE044,2023,Target,Grocery,Financial,AI Model Failure,0.58,15.11,-2.7,7.06,-2.32,3,8,0.8,12405.0,9924.0,Medium,Loss Avoided,24
+RE045,2020,Dollar General,Retail,Compliance,Regulatory Non-Compliance,0.18,13.96,-1.01,11.84,9.73,7,2,0.27,10537.0,2845.0,Low,Loss Realized,14
+RE046,2021,Target,E-Commerce,Compliance,AI Model Failure,0.4,22.56,-7.0,12.94,16.06,9,4,0.23,6917.0,1591.0,Medium,Loss Realized,36
+RE047,2024,Kroger,Consumer Electronics,Competitive,Customer Attrition,0.54,10.4,-7.64,8.58,27.8,7,4,0.5,874.0,437.0,Medium,Loss Avoided,28
+RE048,2021,Home Depot,Grocery,Competitive,Market Share Erosion,0.41,8.37,-7.37,11.62,5.91,3,4,0.74,6432.0,4760.0,Low,Partial Loss,12
+RE049,2018,CVS,Grocery,Reputational,Legacy Integration Failure,0.23,18.87,-3.11,5.3,3.74,5,1,0.11,7062.0,777.0,Low,Loss Realized,5
+RE050,2020,Kroger,Retail,Financial,Legacy Integration Failure,0.32,10.61,-4.97,6.81,17.9,5,6,0.57,13932.0,7941.0,Medium,Partial Loss,30
+RE051,2022,Walmart,Consumer Electronics,Compliance,Revenue Loss,0.84,16.33,-1.16,10.98,16.67,3,2,0.16,9634.0,1541.0,Low,Loss Realized,6
+RE052,2020,Costco,Pharmacy,Technology,Revenue Loss,0.64,16.34,2.92,6.41,6.62,7,1,0.08,4709.0,377.0,Low,Loss Avoided,7
+RE053,2024,Kroger,Grocery,Operational,Customer Attrition,0.5,22.26,-3.75,9.24,27.48,9,6,0.1,7904.0,790.0,High,Partial Loss,54
+RE054,2022,Dollar General,Retail,Competitive,Customer Attrition,0.11,15.17,-1.69,3.6,24.57,3,6,0.8,1038.0,830.0,Medium,Loss Avoided,18
+RE055,2018,Dollar General,Pharmacy,Operational,Market Share Erosion,0.89,12.8,-3.43,9.4,2.84,1,9,0.16,14590.0,2334.0,Low,Loss Avoided,9
+RE056,2024,Kroger,Consumer Electronics,Operational,Revenue Loss,0.64,3.9,1.32,13.06,3.37,7,9,0.09,5433.0,489.0,High,Loss Realized,63
+RE057,2019,Best Buy,Grocery,Reputational,Vendor Dependency,0.35,3.34,1.92,13.16,12.93,5,2,0.44,7194.0,3165.0,Low,Partial Loss,10
+RE058,2021,Costco,Pharmacy,Compliance,Vendor Dependency,0.8,4.28,1.65,11.14,22.08,3,2,0.81,5361.0,4342.0,Low,Loss Realized,6
+RE059,2018,Walmart,Pharmacy,Competitive,Market Share Erosion,0.31,4.71,2.72,11.44,-3.46,5,2,0.29,10254.0,2974.0,Low,Partial Loss,10
+RE060,2021,Kroger,Pharmacy,Operational,Vendor Dependency,0.54,16.13,-7.7,8.81,19.27,7,1,0.43,9950.0,4278.0,Low,Loss Realized,7
+RE061,2023,Best Buy,Grocery,Competitive,Workforce Resistance,0.61,18.65,1.24,9.19,17.69,5,8,0.09,10744.0,967.0,High,Partial Loss,40
+RE062,2019,Dollar General,Grocery,Technology,Data Breach,0.28,13.48,0.27,2.87,3.1,3,2,0.45,4059.0,1827.0,Low,Loss Avoided,6
+RE063,2019,Dollar General,E-Commerce,Reputational,Market Share Erosion,0.88,20.81,-5.48,7.21,18.85,7,9,0.57,4769.0,2718.0,High,Partial Loss,63
+RE064,2018,Home Depot,Consumer Electronics,Technology,Market Share Erosion,0.7,24.79,2.52,7.31,27.91,1,8,0.56,1923.0,1077.0,Low,Loss Avoided,8
+RE065,2019,Kroger,Retail,Competitive,Supply Chain Disruption,0.55,20.59,-6.37,14.42,-3.36,3,1,0.35,9850.0,3448.0,Low,Opportunity Captured,3
+RE066,2022,Costco,Pharmacy,Competitive,Regulatory Non-Compliance,0.24,17.52,-0.52,7.04,6.19,9,8,0.33,645.0,213.0,High,Loss Realized,72
+RE067,2019,Amazon,E-Commerce,Compliance,Regulatory Non-Compliance,0.14,13.55,-5.53,8.69,10.34,3,4,0.15,8985.0,1348.0,Low,Loss Realized,12
+RE068,2021,Costco,Retail,Operational,Workforce Resistance,0.36,11.5,-3.25,8.47,26.47,7,8,0.38,13052.0,4960.0,High,Loss Avoided,56
+RE069,2021,Dollar General,E-Commerce,Operational,Revenue Loss,0.7,2.57,-0.09,9.91,28.68,3,2,0.14,13368.0,1872.0,Low,Loss Realized,6
+RE070,2024,Dollar General,Grocery,Technology,Customer Attrition,0.32,10.28,-1.8,11.48,10.54,1,1,0.74,6763.0,5005.0,Low,Loss Realized,1
+RE071,2021,Target,Pharmacy,Reputational,Customer Attrition,0.53,22.8,-3.3,4.15,21.25,1,2,0.92,6917.0,6364.0,Low,Opportunity Captured,2
+RE072,2024,Dollar General,Retail,Financial,AI Model Failure,0.68,20.3,-4.41,8.4,13.61,9,9,0.92,1201.0,1105.0,High,Opportunity Captured,81
+RE073,2021,Walmart,Retail,Operational,Workforce Resistance,0.19,5.79,1.24,12.56,13.82,5,4,0.83,10078.0,8365.0,Medium,Loss Avoided,20
+RE074,2022,Walgreens,Retail,Compliance,Market Share Erosion,0.65,11.93,-6.42,7.48,4.73,7,9,0.59,12328.0,7274.0,High,Opportunity Captured,63
+RE075,2024,Kroger,Retail,Technology,Workforce Resistance,0.17,20.51,-3.27,4.9,2.59,7,2,0.68,3708.0,2521.0,Low,Loss Avoided,14
+RE076,2020,Costco,Retail,Technology,Workforce Resistance,0.87,2.15,1.94,10.17,5.08,5,2,0.31,6348.0,1968.0,Low,Loss Realized,10
+RE077,2023,Walgreens,E-Commerce,Financial,Workforce Resistance,0.49,9.99,1.3,12.53,14.47,1,2,0.62,12591.0,7806.0,Low,Partial Loss,2
+RE078,2018,Best Buy,Pharmacy,Compliance,Regulatory Non-Compliance,0.22,21.37,-3.59,1.88,-3.98,1,6,0.46,13163.0,6055.0,Low,Loss Avoided,6
+RE079,2021,Amazon,Grocery,Reputational,Workforce Resistance,0.37,10.4,0.39,11.88,26.75,3,4,0.48,3686.0,1769.0,Low,Opportunity Captured,12
+RE080,2019,Walmart,Grocery,Compliance,Data Breach,0.43,2.4,1.05,12.5,0.47,9,2,0.73,8281.0,6045.0,Medium,Loss Realized,18
+RE081,2021,Costco,Grocery,Reputational,Customer Attrition,0.71,13.79,1.78,7.46,2.7,9,2,0.3,2928.0,878.0,Medium,Loss Avoided,18
+RE082,2019,Walgreens,Grocery,Compliance,AI Model Failure,0.69,21.61,-2.01,14.77,13.14,9,9,0.34,1573.0,535.0,High,Loss Realized,81
+RE083,2023,Amazon,E-Commerce,Compliance,Data Breach,0.59,14.96,-5.75,12.01,19.85,3,9,0.88,13671.0,12030.0,Medium,Loss Realized,27
+RE084,2023,Target,Consumer Electronics,Competitive,AI Model Failure,0.18,6.04,-5.19,11.83,-1.65,9,2,0.1,12317.0,1232.0,Medium,Loss Realized,18
+RE085,2023,Walmart,Pharmacy,Technology,Supply Chain Disruption,0.22,9.91,-4.75,11.47,6.12,5,1,0.49,11413.0,5592.0,Low,Opportunity Captured,5
+RE086,2019,Walmart,Retail,Compliance,AI Model Failure,0.18,11.53,-1.47,3.11,28.9,3,6,0.87,779.0,678.0,Medium,Partial Loss,18
+RE087,2021,Target,Consumer Electronics,Financial,Customer Attrition,0.56,14.69,-7.64,4.04,4.18,5,9,0.6,12664.0,7598.0,High,Partial Loss,45
+RE088,2023,Kroger,Grocery,Compliance,Customer Attrition,0.8,19.1,-1.0,7.5,5.96,3,1,0.54,6599.0,3563.0,Low,Loss Avoided,3
+RE089,2022,Target,Consumer Electronics,Operational,Workforce Resistance,0.45,2.92,-3.99,4.7,24.28,9,6,0.27,5169.0,1396.0,High,Loss Avoided,54
+RE090,2024,Walmart,Pharmacy,Technology,Legacy Integration Failure,0.23,22.3,-4.75,6.81,-3.24,5,2,0.36,8220.0,2959.0,Low,Loss Realized,10
+RE091,2019,Walmart,Retail,Operational,Supply Chain Disruption,0.55,0.8,1.67,13.44,11.26,5,4,0.82,1416.0,1161.0,Medium,Loss Realized,20
+RE092,2019,Walgreens,Retail,Technology,Market Share Erosion,0.75,9.57,-2.94,12.54,8.29,5,8,0.55,11362.0,6249.0,High,Loss Avoided,40
+RE093,2021,Dollar General,Pharmacy,Operational,Vendor Dependency,0.69,1.17,-6.95,9.82,6.08,3,8,0.51,8757.0,4466.0,Medium,Partial Loss,24
+RE094,2019,Amazon,Pharmacy,Compliance,AI Model Failure,0.81,10.13,1.09,13.01,5.0,7,2,0.14,2840.0,398.0,Low,Loss Avoided,14
+RE095,2019,Target,Grocery,Compliance,Legacy Integration Failure,0.32,13.38,-7.48,11.97,-1.8,9,9,0.06,2864.0,172.0,High,Loss Realized,81
+RE096,2023,Amazon,Retail,Competitive,Workforce Resistance,0.26,13.04,-0.01,7.01,6.02,5,1,0.92,2805.0,2581.0,Low,Loss Realized,5
+RE097,2021,Target,Consumer Electronics,Financial,Regulatory Non-Compliance,0.8,4.56,0.51,3.81,-3.49,7,4,0.39,902.0,352.0,Medium,Loss Realized,28
+RE098,2023,Best Buy,E-Commerce,Operational,Market Share Erosion,0.63,16.32,-4.12,8.2,22.33,9,6,0.59,8838.0,5214.0,High,Loss Avoided,54
+RE099,2024,Walmart,E-Commerce,Reputational,Revenue Loss,0.35,1.6,1.07,11.31,8.94,9,2,0.12,12613.0,1514.0,Medium,Opportunity Captured,18
+RE100,2024,Dollar General,Pharmacy,Competitive,Legacy Integration Failure,0.69,19.17,-2.33,7.11,10.54,5,4,0.66,312.0,206.0,Medium,Loss Avoided,20
+RE101,2023,Walgreens,Grocery,Operational,Regulatory Non-Compliance,0.75,23.69,-2.9,10.33,26.28,5,4,0.89,783.0,697.0,Medium,Partial Loss,20
+RE102,2024,Dollar General,E-Commerce,Operational,Supply Chain Disruption,0.59,8.82,-7.5,2.32,18.03,3,9,0.57,8613.0,4909.0,Medium,Loss Avoided,27
+RE103,2021,Dollar General,Retail,Competitive,Workforce Resistance,0.65,13.17,-4.81,11.47,-4.72,7,6,0.16,12301.0,1968.0,High,Loss Avoided,42
+RE104,2018,Dollar General,Pharmacy,Compliance,Market Share Erosion,0.4,9.78,2.24,12.38,28.01,7,4,0.57,4935.0,2813.0,Medium,Loss Realized,28
+RE105,2023,Amazon,Consumer Electronics,Operational,Market Share Erosion,0.53,0.66,-3.69,10.9,3.3,5,9,0.74,5277.0,3905.0,High,Partial Loss,45
+RE106,2022,Target,Pharmacy,Compliance,Market Share Erosion,0.52,9.95,-1.99,14.54,-1.23,9,1,0.42,8965.0,3765.0,Low,Partial Loss,9
+RE107,2022,CVS,Consumer Electronics,Competitive,Supply Chain Disruption,0.78,19.9,-2.15,12.57,21.88,5,9,0.84,4149.0,3485.0,High,Loss Realized,45
+RE108,2019,Best Buy,Pharmacy,Compliance,AI Model Failure,0.77,15.1,-1.51,13.64,12.52,9,1,0.63,448.0,282.0,Low,Loss Avoided,9
+RE109,2024,Costco,Pharmacy,Technology,Revenue Loss,0.77,2.98,-7.33,14.07,10.18,9,1,0.86,11042.0,9496.0,Low,Loss Avoided,9
+RE110,2022,Dollar General,Pharmacy,Reputational,Supply Chain Disruption,0.11,21.25,-4.02,12.22,3.73,5,4,0.61,9403.0,5736.0,Medium,Loss Avoided,20
+RE111,2019,Kroger,Consumer Electronics,Operational,Vendor Dependency,0.7,13.51,-0.05,10.44,14.16,1,9,0.17,8732.0,1484.0,Low,Opportunity Captured,9
+RE112,2018,Amazon,Consumer Electronics,Financial,Revenue Loss,0.71,21.12,-5.79,1.08,4.6,7,1,0.33,11138.0,3676.0,Low,Loss Avoided,7
+RE113,2021,Walgreens,Pharmacy,Reputational,Customer Attrition,0.64,14.72,-5.76,7.52,26.56,9,6,0.23,10145.0,2333.0,High,Loss Avoided,54
+RE114,2021,Costco,E-Commerce,Compliance,Workforce Resistance,0.71,14.21,-7.89,9.0,2.53,9,4,0.87,3128.0,2721.0,Medium,Loss Realized,36
+RE115,2021,CVS,Grocery,Operational,Supply Chain Disruption,0.77,3.08,-3.19,5.26,25.95,1,9,0.73,5320.0,3884.0,Low,Loss Realized,9
+RE116,2022,Kroger,Grocery,Compliance,Regulatory Non-Compliance,0.48,4.6,1.71,5.45,14.58,3,9,0.66,1935.0,1277.0,Medium,Loss Realized,27
+RE117,2018,CVS,Grocery,Technology,Revenue Loss,0.5,24.31,-7.43,14.46,24.0,1,8,0.32,1991.0,637.0,Low,Loss Realized,8
+RE118,2022,Costco,Consumer Electronics,Competitive,Vendor Dependency,0.2,6.1,-5.9,13.48,19.95,1,9,0.22,10159.0,2235.0,Low,Partial Loss,9
+RE119,2024,Dollar General,Consumer Electronics,Operational,Customer Attrition,0.41,24.45,-4.59,12.89,19.38,9,4,0.73,12886.0,9407.0,Medium,Partial Loss,36
+RE120,2022,Kroger,E-Commerce,Technology,AI Model Failure,0.61,13.53,0.05,6.68,6.35,7,6,0.48,14443.0,6933.0,High,Loss Realized,42
+RE121,2018,CVS,Grocery,Technology,Regulatory Non-Compliance,0.72,3.83,-0.95,1.19,3.19,1,9,0.25,9444.0,2361.0,Low,Partial Loss,9
+RE122,2018,Walgreens,Grocery,Operational,Revenue Loss,0.27,2.93,-3.42,2.12,2.38,3,8,0.6,2802.0,1681.0,Medium,Loss Realized,24
+RE123,2024,Target,Pharmacy,Compliance,Workforce Resistance,0.21,5.62,0.35,5.37,25.0,5,4,0.09,1629.0,147.0,Medium,Loss Avoided,20
+RE124,2018,Walmart,Consumer Electronics,Financial,Regulatory Non-Compliance,0.63,23.18,-1.29,1.22,23.71,1,1,0.34,12202.0,4149.0,Low,Loss Realized,1
+RE125,2018,Target,Grocery,Technology,Customer Attrition,0.1,10.65,1.86,1.24,10.42,1,2,0.47,8702.0,4090.0,Low,Loss Avoided,2
+RE126,2021,Costco,E-Commerce,Reputational,Regulatory Non-Compliance,0.24,10.19,1.0,13.83,-0.37,3,2,0.18,9293.0,1673.0,Low,Loss Realized,6
+RE127,2024,Amazon,E-Commerce,Technology,Data Breach,0.12,8.17,-5.22,10.89,8.38,7,1,0.94,11733.0,11029.0,Low,Loss Avoided,7
+RE128,2020,Walmart,Grocery,Financial,Legacy Integration Failure,0.23,4.1,-5.01,5.33,16.68,1,9,0.24,10564.0,2535.0,Low,Loss Avoided,9
+RE129,2020,Best Buy,Consumer Electronics,Compliance,AI Model Failure,0.25,12.45,-6.62,2.86,10.9,1,2,0.17,12525.0,2129.0,Low,Opportunity Captured,2
+RE130,2018,Walgreens,E-Commerce,Compliance,Customer Attrition,0.41,3.69,-4.29,8.16,22.31,7,2,0.23,890.0,205.0,Low,Loss Realized,14
+RE131,2020,Best Buy,Pharmacy,Reputational,Regulatory Non-Compliance,0.42,20.97,2.99,1.07,29.92,3,1,0.74,11225.0,8306.0,Low,Loss Realized,3
+RE132,2020,Kroger,E-Commerce,Technology,Legacy Integration Failure,0.8,9.57,-3.54,14.14,1.69,1,9,0.43,12770.0,5491.0,Low,Loss Realized,9
+RE133,2018,Walmart,Retail,Compliance,Legacy Integration Failure,0.51,9.68,-5.57,6.81,11.09,7,9,0.56,4328.0,2424.0,High,Loss Avoided,63
+RE134,2020,Best Buy,Retail,Financial,Regulatory Non-Compliance,0.68,12.11,0.39,6.63,10.08,1,1,0.07,9625.0,674.0,Low,Loss Realized,1
+RE135,2022,Best Buy,Consumer Electronics,Operational,Workforce Resistance,0.18,11.38,-2.03,6.47,5.66,5,9,0.08,4747.0,380.0,High,Partial Loss,45
+RE136,2019,CVS,Grocery,Competitive,Data Breach,0.28,24.87,-6.35,1.97,1.93,9,9,0.45,14372.0,6467.0,High,Loss Avoided,81
+RE137,2024,Target,Consumer Electronics,Competitive,Supply Chain Disruption,0.66,13.86,-3.81,9.94,-2.7,5,4,0.78,550.0,429.0,Medium,Loss Avoided,20
+RE138,2019,CVS,Consumer Electronics,Competitive,Data Breach,0.14,2.66,-3.44,11.26,26.05,1,4,0.85,8718.0,7410.0,Low,Loss Avoided,4
+RE139,2018,Walmart,Consumer Electronics,Technology,Regulatory Non-Compliance,0.49,15.37,0.29,10.47,9.69,3,1,0.13,2539.0,330.0,Low,Loss Realized,3
+RE140,2021,Walmart,Consumer Electronics,Reputational,AI Model Failure,0.58,4.21,-7.77,2.94,12.39,9,6,0.53,10698.0,5670.0,High,Loss Realized,54
+RE141,2024,Costco,Pharmacy,Compliance,Supply Chain Disruption,0.58,1.26,-5.04,9.1,27.09,5,2,0.87,2680.0,2332.0,Low,Loss Avoided,10
+RE142,2018,CVS,Pharmacy,Operational,Customer Attrition,0.12,24.28,-2.31,8.97,22.17,7,4,0.4,3569.0,1428.0,Medium,Loss Avoided,28
+RE143,2021,Home Depot,E-Commerce,Financial,Data Breach,0.36,19.45,-5.04,13.16,-0.43,3,2,0.8,7441.0,5953.0,Low,Loss Realized,6
+RE144,2019,Target,Retail,Operational,Regulatory Non-Compliance,0.61,24.51,-1.09,6.31,14.79,5,8,0.17,13727.0,2334.0,High,Loss Realized,40
+RE145,2018,Walmart,Consumer Electronics,Financial,Data Breach,0.22,12.21,-2.7,6.2,10.48,7,1,0.89,3215.0,2861.0,Low,Opportunity Captured,7
+RE146,2024,Costco,E-Commerce,Technology,Supply Chain Disruption,0.66,13.54,-4.02,9.66,22.9,1,6,0.73,2206.0,1610.0,Low,Loss Realized,6
+RE147,2024,CVS,Retail,Competitive,Vendor Dependency,0.7,4.62,2.44,9.86,20.35,7,8,0.9,11397.0,10257.0,High,Partial Loss,56
+RE148,2023,Target,Grocery,Technology,Revenue Loss,0.89,6.55,-1.05,7.57,19.16,5,8,0.66,7534.0,4972.0,High,Partial Loss,40
+RE149,2022,CVS,Pharmacy,Reputational,Data Breach,0.27,21.04,-6.57,7.2,6.92,5,9,0.38,13681.0,5199.0,High,Loss Realized,45
+RE150,2020,Best Buy,Retail,Reputational,Customer Attrition,0.76,9.23,-1.84,7.92,23.17,1,8,0.89,2242.0,1995.0,Low,Loss Realized,8
+RE151,2021,Costco,Grocery,Financial,Customer Attrition,0.52,20.76,0.59,13.05,-3.17,7,1,0.3,9707.0,2912.0,Low,Loss Realized,7
+RE152,2023,Target,Retail,Compliance,Market Share Erosion,0.4,17.87,-0.21,7.46,0.59,7,4,0.35,3532.0,1236.0,Medium,Loss Avoided,28
+RE153,2020,Dollar General,Pharmacy,Compliance,Data Breach,0.2,4.84,-6.11,14.16,6.75,1,1,0.68,2394.0,1628.0,Low,Loss Avoided,1
+RE154,2020,Kroger,Pharmacy,Financial,Revenue Loss,0.69,12.93,2.7,8.06,-2.31,7,4,0.74,10267.0,7598.0,Medium,Partial Loss,28
+RE155,2018,Kroger,E-Commerce,Reputational,Workforce Resistance,0.29,17.1,-3.06,14.29,3.22,1,8,0.89,8926.0,7944.0,Low,Opportunity Captured,8
+RE156,2020,Target,Consumer Electronics,Reputational,Legacy Integration Failure,0.4,6.26,-6.25,12.66,24.06,3,8,0.23,11335.0,2607.0,Medium,Loss Avoided,24
+RE157,2022,CVS,Retail,Reputational,Revenue Loss,0.15,20.85,-6.02,6.07,28.19,5,6,0.77,4676.0,3601.0,Medium,Loss Realized,30
+RE158,2024,Costco,Retail,Technology,Legacy Integration Failure,0.74,13.85,-6.92,13.09,5.66,3,4,0.71,6747.0,4790.0,Low,Loss Realized,12
+RE159,2023,Kroger,Grocery,Reputational,Legacy Integration Failure,0.71,4.55,0.84,2.54,4.26,9,8,0.11,6112.0,672.0,High,Partial Loss,72
+RE160,2020,Costco,Pharmacy,Operational,Vendor Dependency,0.69,14.78,-6.66,13.95,4.8,9,9,0.4,14762.0,5905.0,High,Loss Realized,81
+RE161,2018,Kroger,Retail,Competitive,Market Share Erosion,0.34,24.99,-6.62,9.84,4.72,9,2,0.3,4419.0,1326.0,Medium,Loss Realized,18
+RE162,2022,Best Buy,Pharmacy,Reputational,Revenue Loss,0.24,4.19,1.36,1.76,-3.74,1,6,0.32,4458.0,1427.0,Low,Partial Loss,6
+RE163,2019,CVS,Retail,Financial,Revenue Loss,0.61,20.51,-4.21,10.02,27.44,7,1,0.93,5350.0,4976.0,Low,Loss Avoided,7
+RE164,2024,Best Buy,E-Commerce,Competitive,Vendor Dependency,0.5,5.58,-7.66,14.64,2.48,3,6,0.63,8491.0,5349.0,Medium,Opportunity Captured,18
+RE165,2024,Kroger,Consumer Electronics,Technology,Data Breach,0.24,19.67,-7.43,1.98,9.7,3,2,0.7,3822.0,2675.0,Low,Loss Avoided,6
+RE166,2023,Dollar General,Retail,Financial,Data Breach,0.65,18.5,-6.44,8.77,-4.66,3,4,0.93,13734.0,12773.0,Low,Loss Realized,12
+RE167,2024,Dollar General,Pharmacy,Competitive,Data Breach,0.89,7.86,-5.65,11.47,25.03,3,1,0.39,4022.0,1569.0,Low,Opportunity Captured,3
+RE168,2020,Best Buy,E-Commerce,Financial,AI Model Failure,0.7,8.48,-0.68,12.34,20.59,9,1,0.77,13442.0,10350.0,Low,Loss Realized,9
+RE169,2018,Dollar General,Retail,Technology,Legacy Integration Failure,0.69,19.92,-6.27,6.79,28.14,3,4,0.44,1597.0,703.0,Low,Loss Avoided,12
+RE170,2024,Kroger,Grocery,Operational,AI Model Failure,0.86,11.81,-6.69,3.86,22.36,7,6,0.83,9866.0,8189.0,High,Loss Avoided,42
+RE171,2024,Target,Consumer Electronics,Technology,Market Share Erosion,0.26,18.41,0.41,1.59,5.98,9,8,0.21,13609.0,2858.0,High,Loss Realized,72
+RE172,2019,Best Buy,Retail,Technology,Vendor Dependency,0.55,4.13,-0.62,9.12,3.68,3,6,0.9,2573.0,2316.0,Medium,Loss Avoided,18
+RE173,2019,Amazon,E-Commerce,Financial,Revenue Loss,0.88,21.39,-3.21,7.34,19.42,1,2,0.25,14526.0,3632.0,Low,Loss Realized,2
+RE174,2021,CVS,Grocery,Compliance,Legacy Integration Failure,0.23,17.92,-1.96,14.28,7.74,5,9,0.34,6821.0,2319.0,High,Loss Avoided,45
+RE175,2022,Dollar General,E-Commerce,Reputational,AI Model Failure,0.66,22.72,-4.57,1.85,14.82,5,8,0.73,14188.0,10357.0,High,Loss Avoided,40
+RE176,2020,Dollar General,E-Commerce,Reputational,AI Model Failure,0.57,3.74,-2.69,10.6,-4.78,5,6,0.4,10168.0,4067.0,Medium,Partial Loss,30
+RE177,2024,Walmart,Grocery,Operational,Regulatory Non-Compliance,0.57,15.03,-2.43,1.35,-2.83,9,9,0.6,4559.0,2735.0,High,Partial Loss,81
+RE178,2024,Home Depot,E-Commerce,Operational,AI Model Failure,0.66,15.18,-3.74,3.4,13.74,3,9,0.45,2865.0,1289.0,Medium,Loss Realized,27
+RE179,2018,Best Buy,Grocery,Reputational,Workforce Resistance,0.84,9.16,1.97,7.35,14.81,9,4,0.72,4591.0,3306.0,Medium,Loss Avoided,36
+RE180,2021,Walgreens,Retail,Compliance,Revenue Loss,0.73,11.73,-7.82,7.37,21.3,7,2,0.26,1441.0,375.0,Low,Loss Avoided,14
+RE181,2022,Dollar General,Grocery,Reputational,Workforce Resistance,0.14,1.43,0.6,10.6,-0.38,1,2,0.1,2201.0,220.0,Low,Loss Realized,2
+RE182,2021,CVS,Grocery,Compliance,Revenue Loss,0.78,18.77,-6.63,13.74,12.96,1,2,0.32,1615.0,517.0,Low,Partial Loss,2
+RE183,2023,Amazon,Consumer Electronics,Operational,Vendor Dependency,0.28,13.96,0.77,9.95,1.81,5,8,0.48,6373.0,3059.0,High,Partial Loss,40
+RE184,2022,Dollar General,Grocery,Competitive,Revenue Loss,0.4,1.91,-1.22,14.35,-1.74,5,1,0.2,11944.0,2389.0,Low,Loss Realized,5
+RE185,2024,Amazon,Grocery,Financial,Workforce Resistance,0.47,17.18,1.28,13.34,9.37,5,8,0.37,2164.0,801.0,High,Loss Avoided,40
+RE186,2024,Kroger,Retail,Operational,Revenue Loss,0.48,11.94,-6.93,9.18,0.72,3,6,0.41,1998.0,819.0,Medium,Loss Realized,18
+RE187,2022,Kroger,Consumer Electronics,Operational,Vendor Dependency,0.45,1.34,-1.85,12.67,2.76,7,9,0.1,9669.0,967.0,High,Loss Avoided,63
+RE188,2024,Home Depot,Pharmacy,Technology,Vendor Dependency,0.85,24.26,-2.49,10.0,6.11,7,9,0.57,2998.0,1709.0,High,Loss Realized,63
+RE189,2020,Target,Retail,Technology,Market Share Erosion,0.66,23.75,-0.23,2.1,4.08,7,1,0.85,1509.0,1283.0,Low,Opportunity Captured,7
+RE190,2022,Walgreens,Retail,Technology,Revenue Loss,0.6,13.07,-2.12,11.37,-1.93,7,6,0.19,2544.0,483.0,High,Partial Loss,42
+RE191,2021,Walmart,Pharmacy,Financial,Regulatory Non-Compliance,0.14,2.79,-2.05,2.33,-1.85,5,1,0.59,13860.0,8177.0,Low,Loss Avoided,5
+RE192,2022,Home Depot,Grocery,Technology,Data Breach,0.82,18.99,-3.27,9.32,1.76,1,9,0.65,12331.0,8015.0,Low,Loss Avoided,9
+RE193,2024,Costco,E-Commerce,Compliance,Customer Attrition,0.83,12.55,-4.6,10.84,-3.23,5,8,0.43,5343.0,2297.0,High,Opportunity Captured,40
+RE194,2020,Walmart,Consumer Electronics,Reputational,Vendor Dependency,0.72,7.91,-2.7,1.93,16.93,7,2,0.68,9855.0,6701.0,Low,Loss Avoided,14
+RE195,2020,Best Buy,E-Commerce,Competitive,Supply Chain Disruption,0.11,12.54,-6.7,4.23,5.06,5,9,0.42,8082.0,3394.0,High,Loss Realized,45
+RE196,2023,CVS,Pharmacy,Operational,Data Breach,0.15,13.3,2.58,13.82,4.79,7,4,0.5,10173.0,5086.0,Medium,Loss Avoided,28
+RE197,2021,Costco,Retail,Compliance,Legacy Integration Failure,0.28,14.29,-0.14,9.63,6.62,9,2,0.06,10256.0,615.0,Medium,Partial Loss,18
+RE198,2019,Costco,Retail,Competitive,Revenue Loss,0.21,11.31,2.48,4.45,18.2,1,9,0.67,9450.0,6332.0,Low,Loss Avoided,9
+RE199,2019,Home Depot,Consumer Electronics,Compliance,Workforce Resistance,0.42,15.34,-5.51,10.67,25.47,9,8,0.65,4028.0,2618.0,High,Loss Avoided,72
+RE200,2022,Target,Retail,Compliance,Customer Attrition,0.84,23.01,1.67,9.35,21.57,3,1,0.08,633.0,51.0,Low,Partial Loss,3
+RE201,2023,Home Depot,Retail,Operational,Supply Chain Disruption,0.48,9.38,0.9,8.02,20.46,5,2,0.38,6861.0,2607.0,Low,Partial Loss,10
+RE202,2018,Best Buy,Consumer Electronics,Reputational,Data Breach,0.11,18.28,-0.55,14.67,11.95,3,8,0.93,13370.0,12434.0,Medium,Opportunity Captured,24
+RE203,2022,Dollar General,Consumer Electronics,Technology,Revenue Loss,0.33,22.41,-1.12,10.57,19.28,5,6,0.43,8564.0,3683.0,Medium,Loss Realized,30
+RE204,2023,Dollar General,Pharmacy,Financial,Market Share Erosion,0.14,11.67,-4.52,6.26,14.35,9,4,0.5,12494.0,6247.0,Medium,Loss Avoided,36
+RE205,2021,Target,Retail,Reputational,Legacy Integration Failure,0.13,11.36,0.98,12.2,2.57,7,2,0.87,14875.0,12941.0,Low,Partial Loss,14
+RE206,2021,Best Buy,Retail,Financial,Customer Attrition,0.32,15.25,-2.48,13.38,2.3,7,1,0.7,2496.0,1747.0,Low,Partial Loss,7
+RE207,2021,Target,Pharmacy,Operational,Regulatory Non-Compliance,0.32,14.99,-7.22,2.75,5.37,5,6,0.57,10392.0,5923.0,Medium,Loss Avoided,30
+RE208,2021,Amazon,Grocery,Operational,Market Share Erosion,0.73,20.26,-4.56,3.81,26.88,7,8,0.77,10131.0,7801.0,High,Loss Realized,56
+RE209,2021,Dollar General,Grocery,Operational,Supply Chain Disruption,0.88,12.17,2.29,4.03,14.16,9,4,0.83,14700.0,12201.0,Medium,Partial Loss,36
+RE210,2023,Costco,Grocery,Competitive,Customer Attrition,0.4,24.91,1.36,10.68,20.69,7,1,0.46,14785.0,6801.0,Low,Partial Loss,7
+RE211,2023,Walgreens,Pharmacy,Financial,Market Share Erosion,0.44,1.96,2.8,9.44,7.13,9,8,0.48,10316.0,4952.0,High,Loss Realized,72
+RE212,2020,CVS,Retail,Reputational,Legacy Integration Failure,0.78,0.58,-1.09,9.67,9.27,3,8,0.4,3692.0,1477.0,Medium,Loss Avoided,24
+RE213,2019,Best Buy,Pharmacy,Reputational,Regulatory Non-Compliance,0.31,16.18,-5.28,14.17,-0.61,9,2,0.92,11988.0,11029.0,Medium,Loss Realized,18
+RE214,2024,Walmart,Pharmacy,Compliance,Market Share Erosion,0.23,7.81,-6.21,11.86,1.0,1,2,0.68,1650.0,1122.0,Low,Loss Avoided,2
+RE215,2021,Target,Grocery,Compliance,AI Model Failure,0.78,6.39,-5.94,2.79,23.96,1,1,0.12,11721.0,1407.0,Low,Loss Realized,1
+RE216,2018,CVS,E-Commerce,Compliance,Regulatory Non-Compliance,0.14,8.14,-7.78,5.87,15.47,1,9,0.83,13657.0,11335.0,Low,Loss Avoided,9
+RE217,2024,Walmart,Retail,Operational,Supply Chain Disruption,0.6,6.77,-3.7,7.1,6.81,5,9,0.48,5773.0,2771.0,High,Loss Avoided,45
+RE218,2023,CVS,Grocery,Reputational,Legacy Integration Failure,0.55,1.25,-5.89,6.54,23.1,5,8,0.11,9478.0,1043.0,High,Loss Avoided,40
+RE219,2018,Walgreens,E-Commerce,Financial,Revenue Loss,0.38,24.3,-3.47,10.37,3.63,5,2,0.54,6481.0,3500.0,Low,Loss Avoided,10
+RE220,2018,Walmart,E-Commerce,Operational,Workforce Resistance,0.35,5.91,2.28,13.49,29.16,9,4,0.43,6595.0,2836.0,Medium,Partial Loss,36
+RE221,2018,Home Depot,Consumer Electronics,Competitive,Workforce Resistance,0.72,18.48,-3.26,5.28,7.07,5,4,0.84,4690.0,3940.0,Medium,Loss Realized,20
+RE222,2020,Kroger,Retail,Compliance,Workforce Resistance,0.17,19.18,1.66,8.73,6.81,3,8,0.23,11444.0,2632.0,Medium,Loss Realized,24
+RE223,2023,Home Depot,E-Commerce,Operational,Customer Attrition,0.29,23.27,-1.34,12.05,5.92,1,2,0.79,14046.0,11096.0,Low,Partial Loss,2
+RE224,2018,Dollar General,Grocery,Operational,Supply Chain Disruption,0.69,1.25,-5.28,6.83,-0.73,9,1,0.55,14114.0,7763.0,Low,Loss Realized,9
+RE225,2021,Kroger,Consumer Electronics,Competitive,Legacy Integration Failure,0.54,21.87,-4.09,3.35,-1.11,1,1,0.1,2663.0,266.0,Low,Opportunity Captured,1
+RE226,2022,Home Depot,Retail,Technology,Regulatory Non-Compliance,0.2,13.42,-7.08,7.65,17.68,5,1,0.92,13127.0,12077.0,Low,Partial Loss,5
+RE227,2018,Kroger,Pharmacy,Reputational,Customer Attrition,0.81,16.0,-4.33,1.77,25.63,9,4,0.51,11075.0,5648.0,Medium,Loss Avoided,36
+RE228,2020,Kroger,Grocery,Financial,Supply Chain Disruption,0.41,16.29,-0.55,14.19,22.67,7,2,0.31,3830.0,1187.0,Low,Opportunity Captured,14
+RE229,2024,Costco,E-Commerce,Technology,Revenue Loss,0.76,20.59,-7.21,2.05,-0.06,3,2,0.47,1056.0,496.0,Low,Loss Realized,6
+RE230,2023,Target,E-Commerce,Compliance,AI Model Failure,0.73,8.67,-5.74,7.14,14.1,5,4,0.82,4057.0,3327.0,Medium,Loss Avoided,20
+RE231,2020,Target,Grocery,Operational,Legacy Integration Failure,0.6,18.46,-3.8,8.42,-1.3,5,1,0.32,13688.0,4380.0,Low,Loss Avoided,5
+RE232,2018,Costco,E-Commerce,Competitive,Workforce Resistance,0.5,13.45,2.8,14.79,-3.41,3,1,0.22,9516.0,2094.0,Low,Loss Avoided,3
+RE233,2023,CVS,Consumer Electronics,Competitive,Market Share Erosion,0.88,19.94,0.63,3.32,17.97,3,8,0.17,10830.0,1841.0,Medium,Opportunity Captured,24
+RE234,2022,Amazon,Retail,Reputational,Legacy Integration Failure,0.22,24.77,0.07,2.6,13.73,7,9,0.32,3894.0,1246.0,High,Loss Realized,63
+RE235,2018,CVS,Consumer Electronics,Technology,Vendor Dependency,0.68,5.42,-6.72,1.12,-2.13,5,6,0.75,10805.0,8104.0,Medium,Loss Avoided,30
+RE236,2020,Walmart,E-Commerce,Reputational,Supply Chain Disruption,0.25,24.87,0.59,3.18,-3.78,5,9,0.47,470.0,221.0,High,Loss Avoided,45
+RE237,2019,Walmart,Pharmacy,Operational,Data Breach,0.37,2.7,0.64,3.9,29.64,1,2,0.25,5661.0,1415.0,Low,Loss Avoided,2
+RE238,2021,Kroger,Retail,Reputational,Revenue Loss,0.35,0.56,-1.39,9.83,-3.95,9,2,0.2,9420.0,1884.0,Medium,Loss Realized,18
+RE239,2024,Home Depot,Retail,Financial,AI Model Failure,0.86,1.58,2.89,4.08,10.56,9,2,0.35,2234.0,782.0,Medium,Loss Avoided,18
+RE240,2020,Home Depot,Grocery,Competitive,Revenue Loss,0.87,8.87,-4.42,1.29,12.66,1,9,0.9,12354.0,11119.0,Low,Partial Loss,9
+RE241,2023,Target,Grocery,Competitive,Legacy Integration Failure,0.25,16.01,2.35,12.57,-0.9,9,6,0.36,3564.0,1283.0,High,Loss Realized,54
+RE242,2018,Best Buy,Pharmacy,Compliance,Data Breach,0.12,2.19,2.06,6.12,0.92,3,8,0.94,9802.0,9214.0,Medium,Partial Loss,24
+RE243,2021,CVS,Retail,Compliance,Vendor Dependency,0.68,0.64,-7.87,5.95,7.31,9,9,0.49,6108.0,2993.0,High,Loss Avoided,81
+RE244,2018,Dollar General,Pharmacy,Operational,Regulatory Non-Compliance,0.43,23.46,-3.05,5.23,21.66,9,6,0.21,8961.0,1882.0,High,Partial Loss,54
+RE245,2023,Walgreens,Grocery,Financial,Market Share Erosion,0.17,20.64,2.75,14.66,12.75,1,1,0.85,1656.0,1408.0,Low,Partial Loss,1
+RE246,2018,Home Depot,Grocery,Technology,Data Breach,0.65,20.32,-6.87,3.38,17.33,7,1,0.46,303.0,139.0,Low,Loss Realized,7
+RE247,2019,Walgreens,Retail,Reputational,Supply Chain Disruption,0.54,22.17,-1.97,13.58,29.48,9,2,0.69,13648.0,9417.0,Medium,Loss Avoided,18
+RE248,2021,Kroger,Consumer Electronics,Operational,Workforce Resistance,0.88,17.65,2.77,11.88,21.88,9,4,0.94,4081.0,3836.0,Medium,Partial Loss,36
+RE249,2021,Walgreens,E-Commerce,Compliance,Vendor Dependency,0.28,3.06,-1.89,2.07,10.2,7,2,0.1,12304.0,1230.0,Low,Loss Avoided,14
+RE250,2023,Dollar General,Grocery,Reputational,Market Share Erosion,0.42,10.28,-5.91,14.81,10.63,1,4,0.14,14990.0,2099.0,Low,Opportunity Captured,4
+RE251,2024,Costco,Grocery,Compliance,AI Model Failure,0.53,18.22,-1.6,4.8,16.66,7,6,0.7,3211.0,2248.0,High,Loss Avoided,42
+RE252,2019,Dollar General,Consumer Electronics,Reputational,Workforce Resistance,0.73,7.37,-5.75,2.38,18.29,1,1,0.3,4014.0,1204.0,Low,Loss Realized,1
+RE253,2020,Walgreens,Consumer Electronics,Technology,Legacy Integration Failure,0.54,17.34,-2.28,12.61,12.52,3,9,0.22,9960.0,2191.0,Medium,Loss Avoided,27
+RE254,2018,Dollar General,Pharmacy,Operational,Data Breach,0.59,1.1,-7.19,10.89,17.57,1,4,0.09,14483.0,1303.0,Low,Opportunity Captured,4
+RE255,2022,Amazon,Pharmacy,Reputational,Market Share Erosion,0.28,8.0,-1.34,9.64,-4.18,3,6,0.07,13741.0,962.0,Medium,Loss Avoided,18
+RE256,2018,Kroger,E-Commerce,Financial,Customer Attrition,0.78,13.95,-2.32,3.18,10.04,3,1,0.75,7568.0,5676.0,Low,Partial Loss,3
+RE257,2018,CVS,E-Commerce,Competitive,Regulatory Non-Compliance,0.44,15.99,0.14,7.7,4.76,1,9,0.17,11937.0,2029.0,Low,Partial Loss,9
+RE258,2020,Costco,Retail,Financial,Regulatory Non-Compliance,0.21,14.64,-1.06,11.93,-0.48,5,4,0.47,2079.0,977.0,Medium,Loss Avoided,20
+RE259,2018,Home Depot,Pharmacy,Financial,Vendor Dependency,0.63,17.6,-1.95,5.25,-1.52,1,2,0.6,14663.0,8798.0,Low,Loss Realized,2
+RE260,2019,Walmart,Grocery,Competitive,AI Model Failure,0.27,0.65,-0.41,5.36,16.11,9,2,0.44,14467.0,6365.0,Medium,Partial Loss,18
+RE261,2019,CVS,Pharmacy,Financial,Vendor Dependency,0.18,2.97,-6.42,1.04,13.33,9,2,0.07,2498.0,175.0,Medium,Loss Avoided,18
+RE262,2021,Walmart,Grocery,Reputational,Customer Attrition,0.79,21.79,-1.45,3.44,3.88,5,6,0.76,4526.0,3440.0,Medium,Partial Loss,30
+RE263,2023,Kroger,Consumer Electronics,Reputational,Supply Chain Disruption,0.47,17.2,-6.11,13.26,11.48,3,2,0.06,1547.0,93.0,Low,Loss Avoided,6
+RE264,2024,Costco,Pharmacy,Reputational,AI Model Failure,0.7,3.27,2.18,7.18,12.23,5,8,0.74,4112.0,3043.0,High,Loss Avoided,40
+RE265,2022,Target,Consumer Electronics,Competitive,Revenue Loss,0.33,21.13,-7.25,14.78,1.83,9,1,0.85,12249.0,10412.0,Low,Partial Loss,9
+RE266,2018,Home Depot,E-Commerce,Financial,Supply Chain Disruption,0.73,6.43,-3.27,6.54,17.82,5,6,0.44,5706.0,2511.0,Medium,Loss Avoided,30
+RE267,2018,Amazon,E-Commerce,Competitive,AI Model Failure,0.19,12.22,-0.35,11.01,22.33,1,9,0.53,1372.0,727.0,Low,Loss Avoided,9
+RE268,2020,Target,Retail,Reputational,AI Model Failure,0.38,4.06,-2.96,4.95,22.7,5,2,0.48,5166.0,2480.0,Low,Loss Avoided,10
+RE269,2023,Kroger,Pharmacy,Financial,Customer Attrition,0.88,17.9,-6.99,6.09,16.09,3,1,0.4,14722.0,5889.0,Low,Loss Avoided,3
+RE270,2019,CVS,Consumer Electronics,Financial,Legacy Integration Failure,0.74,16.84,-1.91,3.67,12.91,1,4,0.85,9464.0,8044.0,Low,Loss Avoided,4
+RE271,2022,Amazon,Grocery,Compliance,Customer Attrition,0.5,5.67,-0.94,5.86,-2.86,7,2,0.85,6272.0,5331.0,Low,Partial Loss,14
+RE272,2021,Dollar General,E-Commerce,Compliance,AI Model Failure,0.37,21.65,-0.26,8.66,5.07,9,1,0.35,2540.0,889.0,Low,Loss Avoided,9
+RE273,2019,Walgreens,E-Commerce,Technology,Market Share Erosion,0.8,10.33,-3.89,14.88,-1.74,9,8,0.6,14793.0,8876.0,High,Loss Avoided,72
+RE274,2023,Amazon,Grocery,Operational,Supply Chain Disruption,0.54,7.67,-1.8,10.3,28.73,5,4,0.88,12322.0,10843.0,Medium,Loss Avoided,20
+RE275,2024,Kroger,Consumer Electronics,Compliance,Customer Attrition,0.71,4.23,-3.04,3.79,-0.27,1,8,0.92,4258.0,3917.0,Low,Loss Realized,8
+RE276,2021,Best Buy,Consumer Electronics,Competitive,Legacy Integration Failure,0.7,7.02,-0.61,1.63,0.31,7,9,0.51,1098.0,560.0,High,Loss Realized,63
+RE277,2024,Walgreens,Pharmacy,Compliance,Data Breach,0.11,1.04,-1.58,2.77,26.14,1,1,0.46,897.0,413.0,Low,Opportunity Captured,1
+RE278,2020,Walmart,Pharmacy,Technology,Vendor Dependency,0.2,14.79,-2.22,8.88,28.04,9,8,0.3,1850.0,555.0,High,Partial Loss,72
+RE279,2020,Home Depot,Retail,Financial,AI Model Failure,0.63,21.13,-5.26,11.71,21.8,1,9,0.91,8732.0,7946.0,Low,Loss Avoided,9
+RE280,2018,Walmart,E-Commerce,Technology,Revenue Loss,0.23,13.95,-7.98,14.17,-4.81,7,1,0.18,13935.0,2508.0,Low,Loss Avoided,7
+RE281,2024,Amazon,Pharmacy,Financial,Data Breach,0.3,5.87,-6.09,1.22,-4.95,5,1,0.57,7476.0,4261.0,Low,Loss Realized,5
+RE282,2023,Walmart,Consumer Electronics,Financial,Regulatory Non-Compliance,0.86,1.32,-6.71,8.32,8.23,3,8,0.3,12652.0,3796.0,Medium,Loss Avoided,24
+RE283,2022,Kroger,Grocery,Operational,Workforce Resistance,0.55,5.76,-3.06,7.59,0.02,1,1,0.3,6716.0,2015.0,Low,Loss Avoided,1
+RE284,2021,Dollar General,Consumer Electronics,Compliance,Legacy Integration Failure,0.7,10.69,-1.27,10.18,-4.36,3,2,0.41,10643.0,4364.0,Low,Loss Avoided,6
+RE285,2019,CVS,E-Commerce,Competitive,Revenue Loss,0.55,19.11,-5.66,8.83,11.24,9,1,0.95,10991.0,10441.0,Low,Loss Avoided,9
+RE286,2023,Home Depot,Consumer Electronics,Competitive,Workforce Resistance,0.54,5.1,2.33,10.62,28.01,5,6,0.1,2651.0,265.0,Medium,Loss Realized,30
+RE287,2023,Walmart,Retail,Reputational,Legacy Integration Failure,0.18,18.13,-7.93,10.21,6.33,5,9,0.57,5450.0,3106.0,High,Loss Realized,45
+RE288,2020,Walmart,E-Commerce,Financial,Market Share Erosion,0.37,21.74,0.5,2.64,18.14,1,1,0.12,9578.0,1149.0,Low,Opportunity Captured,1
+RE289,2024,Amazon,Grocery,Competitive,Vendor Dependency,0.33,11.62,-1.12,12.2,17.83,5,6,0.19,1107.0,210.0,Medium,Loss Avoided,30
+RE290,2018,CVS,Retail,Operational,Data Breach,0.41,20.63,-3.89,2.73,3.79,1,1,0.45,5455.0,2455.0,Low,Loss Avoided,1
+RE291,2018,Target,E-Commerce,Financial,Supply Chain Disruption,0.74,14.09,-7.44,10.78,17.76,1,1,0.51,8045.0,4103.0,Low,Loss Realized,1
+RE292,2021,Walmart,Grocery,Operational,Legacy Integration Failure,0.4,16.11,-1.1,6.83,2.43,3,8,0.28,14944.0,4184.0,Medium,Loss Realized,24
+RE293,2020,Kroger,Retail,Competitive,Supply Chain Disruption,0.46,13.39,-3.76,8.19,-0.73,5,2,0.33,7144.0,2358.0,Low,Partial Loss,10
+RE294,2023,Best Buy,Retail,Competitive,Vendor Dependency,0.42,11.85,2.3,13.65,19.55,1,9,0.13,12250.0,1592.0,Low,Loss Avoided,9
+RE295,2022,Home Depot,E-Commerce,Reputational,AI Model Failure,0.17,6.25,-2.04,13.46,-1.03,3,2,0.32,6509.0,2083.0,Low,Loss Avoided,6
+RE296,2020,Walmart,Pharmacy,Competitive,Regulatory Non-Compliance,0.45,7.93,2.34,12.45,29.89,7,4,0.92,11956.0,11000.0,Medium,Loss Realized,28
+RE297,2021,Kroger,Retail,Financial,Data Breach,0.26,7.6,-5.57,8.14,1.42,3,8,0.9,8951.0,8056.0,Medium,Partial Loss,24
+RE298,2021,Kroger,Retail,Financial,Vendor Dependency,0.25,14.3,-0.02,11.31,15.79,3,8,0.35,13305.0,4657.0,Medium,Loss Realized,24
+RE299,2020,Home Depot,Grocery,Financial,Vendor Dependency,0.18,3.44,-1.21,8.18,9.4,1,2,0.56,6194.0,3469.0,Low,Loss Realized,2
+RE300,2021,Target,Consumer Electronics,Reputational,Market Share Erosion,0.39,22.96,0.13,13.17,-0.58,9,8,0.87,9084.0,7903.0,High,Loss Avoided,72
+RE301,2020,Kroger,E-Commerce,Reputational,Workforce Resistance,0.71,18.16,-5.64,6.64,-4.03,9,2,0.06,9469.0,568.0,Medium,Loss Realized,18
+RE302,2019,Best Buy,E-Commerce,Competitive,Regulatory Non-Compliance,0.32,10.34,-0.69,14.58,16.8,9,8,0.78,6290.0,4906.0,High,Loss Realized,72
+RE303,2020,Kroger,Pharmacy,Technology,Data Breach,0.35,4.39,-2.52,14.05,23.24,3,1,0.9,2207.0,1986.0,Low,Loss Avoided,3
+RE304,2024,Kroger,Pharmacy,Technology,AI Model Failure,0.61,22.11,0.17,11.38,24.47,1,2,0.13,1449.0,188.0,Low,Loss Avoided,2
+RE305,2020,Kroger,E-Commerce,Reputational,AI Model Failure,0.26,20.68,-4.4,4.91,11.89,5,2,0.2,299.0,60.0,Low,Partial Loss,10
+RE306,2021,Dollar General,Pharmacy,Competitive,Customer Attrition,0.82,18.18,1.79,2.84,22.21,3,6,0.91,13109.0,11929.0,Medium,Loss Avoided,18
+RE307,2024,Dollar General,Grocery,Technology,Vendor Dependency,0.52,7.15,-7.07,12.97,18.55,3,8,0.53,3585.0,1900.0,Medium,Loss Realized,24
+RE308,2021,Target,E-Commerce,Competitive,Legacy Integration Failure,0.46,10.36,0.88,3.31,20.35,1,8,0.06,3212.0,193.0,Low,Loss Realized,8
+RE309,2018,Walmart,Pharmacy,Competitive,Market Share Erosion,0.55,3.02,1.47,12.96,12.24,7,2,0.28,11054.0,3095.0,Low,Opportunity Captured,14
+RE310,2018,Kroger,E-Commerce,Competitive,Regulatory Non-Compliance,0.23,5.13,0.99,7.87,17.17,3,1,0.45,4834.0,2175.0,Low,Loss Avoided,3
+RE311,2024,CVS,Consumer Electronics,Compliance,AI Model Failure,0.59,19.68,-2.36,6.69,23.19,7,1,0.67,7615.0,5102.0,Low,Partial Loss,7
+RE312,2019,Walmart,Retail,Financial,Data Breach,0.39,18.02,-3.18,13.64,8.93,7,9,0.71,2480.0,1761.0,High,Loss Realized,63
+RE313,2018,Target,E-Commerce,Competitive,Customer Attrition,0.82,15.04,2.96,9.45,23.21,9,1,0.95,14398.0,13678.0,Low,Loss Avoided,9
+RE314,2020,Costco,Retail,Compliance,Data Breach,0.24,22.45,-5.48,9.07,15.72,1,8,0.31,12781.0,3962.0,Low,Loss Realized,8
+RE315,2021,Walmart,Pharmacy,Reputational,Market Share Erosion,0.51,14.79,-1.98,8.82,0.81,7,6,0.53,12964.0,6871.0,High,Loss Avoided,42
+RE316,2018,Walmart,Retail,Technology,Legacy Integration Failure,0.58,11.94,-0.62,6.2,-4.14,1,2,0.53,6131.0,3249.0,Low,Opportunity Captured,2
+RE317,2018,Walgreens,E-Commerce,Financial,Customer Attrition,0.13,8.84,-0.29,12.0,7.7,9,4,0.42,11447.0,4808.0,Medium,Opportunity Captured,36
+RE318,2019,Amazon,Consumer Electronics,Technology,Customer Attrition,0.39,23.54,-5.76,4.54,14.13,1,6,0.2,2201.0,440.0,Low,Loss Avoided,6
+RE319,2024,Walgreens,Pharmacy,Financial,Workforce Resistance,0.69,2.53,-0.81,14.14,24.39,3,4,0.93,179.0,166.0,Low,Loss Avoided,12
+RE320,2024,Best Buy,E-Commerce,Technology,Regulatory Non-Compliance,0.76,23.31,1.0,13.52,-0.54,7,6,0.82,349.0,286.0,High,Opportunity Captured,42
+RE321,2023,Dollar General,Pharmacy,Financial,Customer Attrition,0.35,20.75,-7.45,5.72,23.01,1,1,0.5,8820.0,4410.0,Low,Loss Avoided,1
+RE322,2019,Dollar General,Grocery,Technology,Workforce Resistance,0.74,3.68,2.03,11.21,25.21,5,8,0.59,6858.0,4046.0,High,Loss Realized,40
+RE323,2020,Amazon,Retail,Technology,Workforce Resistance,0.87,14.34,-7.68,9.03,0.27,1,4,0.25,7794.0,1948.0,Low,Loss Avoided,4
+RE324,2024,Home Depot,Grocery,Technology,Market Share Erosion,0.79,21.73,-4.08,5.73,24.81,7,6,0.54,162.0,87.0,High,Loss Realized,42
+RE325,2021,Home Depot,E-Commerce,Technology,Supply Chain Disruption,0.19,14.51,-7.83,14.84,29.7,9,8,0.68,6369.0,4331.0,High,Loss Avoided,72
+RE326,2019,Target,Consumer Electronics,Reputational,Data Breach,0.69,22.73,-7.15,1.35,20.44,9,4,0.51,10785.0,5500.0,Medium,Loss Avoided,36
+RE327,2018,Amazon,Pharmacy,Competitive,Legacy Integration Failure,0.36,23.6,2.02,4.54,22.47,7,2,0.94,6668.0,6268.0,Low,Loss Avoided,14
+RE328,2021,Walmart,Retail,Operational,Revenue Loss,0.89,10.85,-4.1,8.28,29.8,3,6,0.6,10997.0,6598.0,Medium,Loss Avoided,18
+RE329,2021,Home Depot,Pharmacy,Compliance,Data Breach,0.49,9.74,-3.33,8.31,16.19,3,2,0.38,3534.0,1343.0,Low,Loss Realized,6
+RE330,2018,Kroger,E-Commerce,Operational,Customer Attrition,0.2,23.44,-5.63,9.25,5.78,9,1,0.74,12206.0,9032.0,Low,Loss Avoided,9
+RE331,2019,CVS,Pharmacy,Operational,Legacy Integration Failure,0.68,17.04,-1.43,11.52,24.31,9,2,0.2,8847.0,1769.0,Medium,Partial Loss,18
+RE332,2018,Walmart,Retail,Financial,AI Model Failure,0.36,3.34,-1.46,9.73,16.51,7,2,0.4,3201.0,1280.0,Low,Loss Avoided,14
+RE333,2023,Best Buy,E-Commerce,Competitive,Supply Chain Disruption,0.9,1.54,-3.91,9.4,15.34,3,9,0.36,3589.0,1292.0,Medium,Loss Avoided,27
+RE334,2021,Kroger,Pharmacy,Financial,AI Model Failure,0.88,14.33,-4.34,1.75,3.88,9,6,0.44,9439.0,4153.0,High,Opportunity Captured,54
+RE335,2022,Kroger,Consumer Electronics,Competitive,AI Model Failure,0.62,23.29,1.73,6.27,21.47,3,1,0.75,12458.0,9344.0,Low,Opportunity Captured,3
+RE336,2022,Amazon,E-Commerce,Competitive,Regulatory Non-Compliance,0.2,21.18,-3.78,4.25,-2.14,9,2,0.49,6264.0,3069.0,Medium,Loss Realized,18
+RE337,2020,Target,E-Commerce,Technology,Data Breach,0.65,17.06,-2.57,4.72,27.35,1,8,0.76,3912.0,2973.0,Low,Loss Realized,8
+RE338,2024,Best Buy,Consumer Electronics,Reputational,Revenue Loss,0.17,3.91,-4.88,8.76,6.4,5,4,0.57,13012.0,7417.0,Medium,Partial Loss,20
+RE339,2018,Home Depot,Grocery,Technology,Market Share Erosion,0.12,6.73,0.65,3.79,-0.53,1,2,0.36,10056.0,3620.0,Low,Partial Loss,2
+RE340,2018,Amazon,Retail,Reputational,Revenue Loss,0.76,21.95,-3.63,5.12,10.48,9,1,0.78,6749.0,5264.0,Low,Opportunity Captured,9
+RE341,2020,Home Depot,Grocery,Financial,AI Model Failure,0.27,4.98,-2.35,4.32,-3.51,5,2,0.26,7344.0,1909.0,Low,Partial Loss,10
+RE342,2020,Amazon,Pharmacy,Reputational,Customer Attrition,0.4,7.32,-5.21,14.28,18.96,5,4,0.25,3104.0,776.0,Medium,Loss Avoided,20
+RE343,2020,Amazon,Consumer Electronics,Financial,Supply Chain Disruption,0.88,3.68,2.86,14.23,26.59,9,1,0.5,9421.0,4710.0,Low,Loss Avoided,9
+RE344,2021,Amazon,Grocery,Operational,Vendor Dependency,0.37,17.06,-4.79,9.54,24.3,9,6,0.28,5413.0,1516.0,High,Loss Realized,54
+RE345,2023,Target,E-Commerce,Operational,Revenue Loss,0.34,23.63,0.48,13.94,-0.54,3,1,0.06,14935.0,896.0,Low,Loss Realized,3
+RE346,2018,Amazon,Pharmacy,Reputational,AI Model Failure,0.83,7.09,-3.3,12.0,-0.58,9,6,0.63,7229.0,4554.0,High,Loss Avoided,54
+RE347,2021,Costco,Pharmacy,Reputational,Supply Chain Disruption,0.19,12.15,-5.73,9.26,23.47,7,1,0.51,7314.0,3730.0,Low,Loss Avoided,7
+RE348,2020,CVS,Grocery,Financial,Legacy Integration Failure,0.71,16.04,0.8,1.09,27.35,9,4,0.45,8509.0,3829.0,Medium,Loss Avoided,36
+RE349,2018,Home Depot,Grocery,Technology,Data Breach,0.89,24.99,-4.33,11.82,11.12,7,4,0.92,13756.0,12656.0,Medium,Partial Loss,28
+RE350,2021,Walmart,Consumer Electronics,Financial,Workforce Resistance,0.82,3.07,1.52,10.83,12.46,9,1,0.56,12022.0,6732.0,Low,Loss Realized,9
+RE351,2023,Walgreens,Retail,Technology,Regulatory Non-Compliance,0.62,12.71,2.07,9.61,6.14,3,2,0.83,6794.0,5639.0,Low,Loss Avoided,6
+RE352,2021,Best Buy,Grocery,Operational,Supply Chain Disruption,0.35,9.94,1.46,11.65,26.3,7,4,0.18,10795.0,1943.0,Medium,Loss Realized,28
+RE353,2023,Dollar General,Grocery,Competitive,Customer Attrition,0.3,21.71,-7.61,8.18,17.57,1,6,0.56,8814.0,4936.0,Low,Loss Avoided,6
+RE354,2020,Target,E-Commerce,Reputational,Customer Attrition,0.76,12.16,0.66,10.86,5.09,7,6,0.83,7411.0,6151.0,High,Partial Loss,42
+RE355,2023,Walmart,Pharmacy,Technology,Supply Chain Disruption,0.8,3.22,-3.48,14.09,5.46,3,8,0.57,2925.0,1667.0,Medium,Loss Avoided,24
+RE356,2018,Kroger,Retail,Financial,Customer Attrition,0.52,16.04,1.61,6.26,26.19,7,9,0.7,6986.0,4890.0,High,Opportunity Captured,63
+RE357,2020,Costco,E-Commerce,Operational,Data Breach,0.3,19.38,-0.98,10.91,-4.52,9,9,0.38,3725.0,1416.0,High,Loss Realized,81
+RE358,2018,Dollar General,Consumer Electronics,Technology,Customer Attrition,0.19,0.57,1.17,7.66,6.3,9,9,0.13,13727.0,1785.0,High,Loss Avoided,81
+RE359,2022,Walgreens,Consumer Electronics,Financial,Revenue Loss,0.17,21.54,-2.51,10.44,14.4,3,6,0.46,5064.0,2329.0,Medium,Loss Avoided,18
+RE360,2019,Walmart,Grocery,Reputational,Workforce Resistance,0.68,5.06,-2.11,11.68,0.19,5,8,0.41,14286.0,5857.0,High,Loss Avoided,40
+RE361,2023,Dollar General,Grocery,Reputational,Customer Attrition,0.44,14.03,-6.41,1.64,-1.78,9,9,0.83,8019.0,6656.0,High,Partial Loss,81
+RE362,2019,Walmart,Consumer Electronics,Compliance,Workforce Resistance,0.82,10.69,0.62,10.05,23.53,1,9,0.27,9492.0,2563.0,Low,Loss Avoided,9
+RE363,2019,Costco,Grocery,Competitive,AI Model Failure,0.69,18.13,-3.39,4.17,26.3,3,1,0.92,8167.0,7514.0,Low,Partial Loss,3
+RE364,2023,Walgreens,Retail,Compliance,Market Share Erosion,0.25,9.59,-2.5,10.38,23.83,7,1,0.91,1984.0,1805.0,Low,Loss Realized,7
+RE365,2020,Kroger,Grocery,Operational,Data Breach,0.59,21.81,0.64,7.56,26.46,7,1,0.27,5669.0,1531.0,Low,Partial Loss,7
+RE366,2022,Amazon,Pharmacy,Technology,Market Share Erosion,0.45,18.4,-1.41,11.83,14.36,1,2,0.36,1532.0,552.0,Low,Loss Realized,2
+RE367,2018,Home Depot,Grocery,Operational,AI Model Failure,0.56,16.37,-5.79,2.73,23.43,9,9,0.86,9363.0,8052.0,High,Partial Loss,81
+RE368,2021,Kroger,E-Commerce,Financial,Data Breach,0.69,20.01,-1.51,9.77,8.44,3,2,0.92,6731.0,6193.0,Low,Loss Avoided,6
+RE369,2018,Amazon,Retail,Reputational,Supply Chain Disruption,0.74,18.97,-3.52,4.9,18.32,1,8,0.45,11681.0,5256.0,Low,Loss Avoided,8
+RE370,2021,Target,E-Commerce,Compliance,Supply Chain Disruption,0.77,1.38,-2.84,12.94,29.61,9,6,0.34,3346.0,1138.0,High,Loss Avoided,54
+RE371,2018,CVS,E-Commerce,Compliance,Workforce Resistance,0.3,10.17,-7.69,14.0,2.9,3,9,0.52,2510.0,1305.0,Medium,Opportunity Captured,27
+RE372,2023,Best Buy,Pharmacy,Compliance,AI Model Failure,0.12,23.3,-5.69,14.95,8.65,7,6,0.67,6125.0,4104.0,High,Loss Realized,42
+RE373,2022,Best Buy,Retail,Operational,Workforce Resistance,0.69,3.58,-4.91,12.14,11.8,3,1,0.3,13902.0,4171.0,Low,Loss Avoided,3
+RE374,2021,Home Depot,Retail,Reputational,Regulatory Non-Compliance,0.19,18.56,-0.16,11.55,-0.17,5,9,0.71,10671.0,7576.0,High,Partial Loss,45
+RE375,2024,Walgreens,Retail,Technology,Customer Attrition,0.35,24.38,-7.87,4.02,-2.16,3,4,0.1,6313.0,631.0,Low,Loss Avoided,12
+RE376,2020,Costco,Retail,Financial,Vendor Dependency,0.1,1.78,-3.5,5.7,24.04,5,2,0.09,7783.0,700.0,Low,Loss Realized,10
+RE377,2018,Walgreens,Retail,Technology,Regulatory Non-Compliance,0.65,17.21,2.16,7.52,29.19,3,2,0.4,1309.0,524.0,Low,Loss Avoided,6
+RE378,2018,Costco,Pharmacy,Operational,Customer Attrition,0.23,11.97,-6.77,11.83,9.17,5,9,0.37,14769.0,5465.0,High,Loss Avoided,45
+RE379,2021,Walgreens,Grocery,Financial,Data Breach,0.62,14.69,-2.32,13.81,-1.93,7,1,0.33,10013.0,3304.0,Low,Opportunity Captured,7
+RE380,2020,CVS,E-Commerce,Compliance,Workforce Resistance,0.89,2.59,0.65,3.65,-2.7,9,2,0.49,4317.0,2115.0,Medium,Partial Loss,18
+RE381,2020,Target,Retail,Competitive,Data Breach,0.16,1.55,2.37,13.91,26.2,5,1,0.34,8808.0,2995.0,Low,Loss Avoided,5
+RE382,2023,Target,Grocery,Operational,Data Breach,0.16,16.84,0.21,10.74,11.23,5,8,0.22,1687.0,371.0,High,Opportunity Captured,40
+RE383,2024,Amazon,Grocery,Operational,Customer Attrition,0.37,20.67,-0.07,9.55,6.2,7,6,0.33,14489.0,4781.0,High,Loss Avoided,42
+RE384,2023,Dollar General,E-Commerce,Reputational,AI Model Failure,0.79,19.66,1.09,3.8,11.68,5,4,0.93,2663.0,2477.0,Medium,Loss Realized,20
+RE385,2023,Target,Pharmacy,Technology,Customer Attrition,0.27,13.82,-3.09,1.78,6.14,1,6,0.42,9738.0,4090.0,Low,Loss Realized,6
+RE386,2023,Target,Consumer Electronics,Operational,Legacy Integration Failure,0.39,2.95,0.86,8.96,12.12,7,6,0.45,3720.0,1674.0,High,Loss Avoided,42
+RE387,2023,Kroger,Consumer Electronics,Operational,Supply Chain Disruption,0.15,17.36,-7.91,10.12,25.08,1,8,0.57,10778.0,6143.0,Low,Loss Realized,8
+RE388,2023,Kroger,Grocery,Compliance,Supply Chain Disruption,0.71,6.43,2.17,3.95,15.73,7,2,0.94,11663.0,10963.0,Low,Opportunity Captured,14
+RE389,2022,Amazon,E-Commerce,Compliance,Regulatory Non-Compliance,0.43,22.82,-3.12,8.79,19.31,5,4,0.27,10118.0,2732.0,Medium,Partial Loss,20
+RE390,2020,Dollar General,Consumer Electronics,Financial,Supply Chain Disruption,0.71,21.04,-1.91,12.99,7.76,1,2,0.66,9237.0,6096.0,Low,Loss Realized,2
+RE391,2023,Home Depot,Grocery,Competitive,Customer Attrition,0.82,17.88,-5.2,12.69,20.85,5,9,0.69,13392.0,9240.0,High,Loss Avoided,45
+RE392,2020,Kroger,Pharmacy,Reputational,Revenue Loss,0.29,23.75,0.17,13.98,18.33,7,6,0.6,1225.0,735.0,High,Partial Loss,42
+RE393,2020,Home Depot,Consumer Electronics,Competitive,Workforce Resistance,0.75,1.27,-7.16,6.12,-0.82,5,9,0.13,4997.0,650.0,High,Opportunity Captured,45
+RE394,2019,Walmart,Grocery,Financial,Customer Attrition,0.15,18.54,1.6,5.45,15.04,1,1,0.66,3762.0,2483.0,Low,Partial Loss,1
+RE395,2022,Kroger,Grocery,Compliance,Customer Attrition,0.82,8.59,1.11,11.49,3.99,1,6,0.11,14821.0,1630.0,Low,Loss Avoided,6
+RE396,2023,CVS,Retail,Technology,Vendor Dependency,0.62,22.7,-5.62,7.04,23.14,5,2,0.59,5871.0,3464.0,Low,Partial Loss,10
+RE397,2018,Dollar General,Pharmacy,Compliance,Workforce Resistance,0.8,7.03,0.9,2.23,9.91,3,6,0.72,11003.0,7922.0,Medium,Loss Avoided,18
+RE398,2021,Amazon,Retail,Reputational,Legacy Integration Failure,0.1,18.26,0.65,4.96,29.81,7,1,0.24,10287.0,2469.0,Low,Loss Avoided,7
+RE399,2024,Walmart,E-Commerce,Compliance,Supply Chain Disruption,0.24,22.0,-1.05,6.86,-1.76,7,8,0.81,3221.0,2609.0,High,Loss Realized,56
+RE400,2018,Dollar General,Retail,Reputational,Workforce Resistance,0.41,1.52,-3.89,5.1,22.31,5,9,0.08,3623.0,290.0,High,Loss Realized,45
+RE401,2022,CVS,Retail,Reputational,Supply Chain Disruption,0.4,10.24,-5.01,5.65,18.58,3,9,0.81,4255.0,3447.0,Medium,Loss Avoided,27
+RE402,2021,Dollar General,Consumer Electronics,Reputational,Regulatory Non-Compliance,0.28,19.18,-5.45,5.11,21.86,1,2,0.46,6196.0,2850.0,Low,Loss Realized,2
+RE403,2022,CVS,Grocery,Financial,Workforce Resistance,0.41,11.65,-4.5,1.58,5.76,9,6,0.25,3553.0,888.0,High,Loss Realized,54
+RE404,2020,CVS,Pharmacy,Reputational,Supply Chain Disruption,0.2,7.05,1.94,9.92,12.22,9,2,0.17,344.0,58.0,Medium,Partial Loss,18
+RE405,2021,Home Depot,Retail,Reputational,Legacy Integration Failure,0.43,5.89,-7.15,9.36,22.88,5,8,0.91,13197.0,12009.0,High,Loss Realized,40
+RE406,2020,Walgreens,Pharmacy,Technology,Market Share Erosion,0.74,3.72,1.12,10.15,3.14,3,6,0.12,14486.0,1738.0,Medium,Loss Avoided,18
+RE407,2018,Walmart,Retail,Competitive,Data Breach,0.48,21.5,-4.16,3.69,2.91,3,6,0.23,5156.0,1186.0,Medium,Loss Avoided,18
+RE408,2018,Dollar General,E-Commerce,Operational,Data Breach,0.11,14.6,-2.26,5.14,14.29,7,2,0.36,5111.0,1840.0,Low,Opportunity Captured,14
+RE409,2021,Costco,Retail,Competitive,Legacy Integration Failure,0.44,2.37,0.74,9.67,13.32,1,2,0.61,156.0,95.0,Low,Loss Avoided,2
+RE410,2021,Walmart,Consumer Electronics,Reputational,Vendor Dependency,0.12,9.87,1.73,9.39,4.88,3,1,0.54,10220.0,5519.0,Low,Loss Realized,3
+RE411,2023,Walgreens,Grocery,Technology,Market Share Erosion,0.87,9.51,-4.21,8.09,5.43,9,8,0.16,12390.0,1982.0,High,Loss Avoided,72
+RE412,2022,Walmart,E-Commerce,Compliance,Regulatory Non-Compliance,0.2,4.95,-2.92,5.91,4.72,1,1,0.31,2242.0,695.0,Low,Partial Loss,1
+RE413,2023,Target,Retail,Technology,Legacy Integration Failure,0.67,11.17,-3.44,13.78,22.0,1,9,0.26,2437.0,634.0,Low,Opportunity Captured,9
+RE414,2022,Costco,Pharmacy,Reputational,Data Breach,0.88,8.64,-7.85,5.76,17.82,5,6,0.24,11862.0,2847.0,Medium,Loss Avoided,30
+RE415,2023,Walgreens,E-Commerce,Technology,Data Breach,0.76,8.87,-4.74,7.38,24.13,3,2,0.42,9264.0,3891.0,Low,Loss Avoided,6
+RE416,2020,Home Depot,E-Commerce,Technology,Data Breach,0.66,18.61,-2.95,10.49,29.14,5,6,0.68,721.0,490.0,Medium,Opportunity Captured,30
+RE417,2021,Dollar General,Retail,Reputational,AI Model Failure,0.77,5.97,-3.48,8.6,11.6,3,6,0.25,9357.0,2339.0,Medium,Loss Realized,18
+RE418,2018,Best Buy,E-Commerce,Financial,Legacy Integration Failure,0.89,16.23,-0.06,5.86,-2.67,7,4,0.38,4668.0,1774.0,Medium,Loss Avoided,28
+RE419,2022,Walgreens,Pharmacy,Technology,Customer Attrition,0.6,14.48,-3.77,7.1,-3.32,5,9,0.4,5562.0,2225.0,High,Loss Avoided,45
+RE420,2022,Amazon,E-Commerce,Operational,Regulatory Non-Compliance,0.55,14.42,-2.62,12.12,5.35,5,4,0.93,11557.0,10748.0,Medium,Loss Realized,20
+RE421,2018,Dollar General,Pharmacy,Operational,Data Breach,0.6,16.74,-3.27,4.89,27.64,9,6,0.91,12173.0,11077.0,High,Loss Avoided,54
+RE422,2023,Walgreens,Retail,Technology,Supply Chain Disruption,0.53,13.94,0.15,2.99,13.31,5,2,0.77,6035.0,4647.0,Low,Loss Realized,10
+RE423,2022,Target,Grocery,Financial,Legacy Integration Failure,0.61,22.04,1.49,5.38,4.51,3,6,0.27,14210.0,3837.0,Medium,Loss Avoided,18
+RE424,2024,Best Buy,E-Commerce,Compliance,AI Model Failure,0.46,17.05,-2.15,12.89,8.97,9,9,0.11,6127.0,674.0,High,Opportunity Captured,81
+RE425,2020,Target,Grocery,Reputational,Legacy Integration Failure,0.27,13.9,0.68,2.25,15.95,5,4,0.34,11589.0,3940.0,Medium,Loss Realized,20
+RE426,2021,Best Buy,Pharmacy,Operational,Regulatory Non-Compliance,0.2,20.83,-4.74,14.88,17.85,5,2,0.29,7284.0,2112.0,Low,Partial Loss,10
+RE427,2018,Amazon,E-Commerce,Compliance,AI Model Failure,0.15,15.35,-2.04,8.57,0.39,7,6,0.51,13468.0,6869.0,High,Loss Realized,42
+RE428,2021,Dollar General,Consumer Electronics,Technology,Regulatory Non-Compliance,0.31,7.63,-4.2,14.79,29.2,5,8,0.75,13621.0,10216.0,High,Loss Avoided,40
+RE429,2024,Home Depot,Grocery,Compliance,Legacy Integration Failure,0.14,5.57,-3.44,14.15,14.07,1,9,0.82,1357.0,1113.0,Low,Loss Realized,9
+RE430,2022,Target,E-Commerce,Competitive,Customer Attrition,0.55,4.23,0.06,7.34,-0.25,9,9,0.81,14051.0,11381.0,High,Opportunity Captured,81
+RE431,2022,Target,Grocery,Operational,Regulatory Non-Compliance,0.33,22.54,1.7,3.78,26.28,1,8,0.37,12392.0,4585.0,Low,Partial Loss,8
+RE432,2024,CVS,E-Commerce,Technology,AI Model Failure,0.76,17.9,-6.66,3.31,-2.39,9,6,0.67,11880.0,7960.0,High,Loss Avoided,54
+RE433,2018,Best Buy,Retail,Reputational,AI Model Failure,0.16,23.47,-1.02,4.36,26.77,7,9,0.33,3054.0,1008.0,High,Partial Loss,63
+RE434,2020,Kroger,Grocery,Financial,Regulatory Non-Compliance,0.28,15.28,-1.6,10.94,29.88,5,2,0.1,12087.0,1209.0,Low,Loss Avoided,10
+RE435,2019,Dollar General,Consumer Electronics,Technology,Revenue Loss,0.68,12.1,-6.7,4.82,19.52,5,6,0.68,12759.0,8676.0,Medium,Opportunity Captured,30
+RE436,2018,Best Buy,Consumer Electronics,Reputational,Legacy Integration Failure,0.58,1.96,-5.67,5.78,21.97,5,6,0.06,4373.0,262.0,Medium,Partial Loss,30
+RE437,2019,CVS,Pharmacy,Financial,Revenue Loss,0.15,16.96,-4.58,7.28,6.81,9,4,0.42,14286.0,6000.0,Medium,Opportunity Captured,36
+RE438,2024,Walmart,E-Commerce,Financial,Vendor Dependency,0.8,14.76,-6.16,13.79,27.96,5,9,0.35,795.0,278.0,High,Loss Avoided,45
+RE439,2023,Best Buy,Grocery,Technology,Legacy Integration Failure,0.8,24.76,-5.32,3.65,13.54,1,9,0.67,2291.0,1535.0,Low,Loss Realized,9
+RE440,2019,Home Depot,Pharmacy,Compliance,Regulatory Non-Compliance,0.36,6.36,-5.06,1.07,20.63,5,8,0.74,8087.0,5984.0,High,Loss Avoided,40
+RE441,2020,Dollar General,Grocery,Compliance,Market Share Erosion,0.37,13.5,-4.31,1.84,27.34,7,4,0.32,8658.0,2771.0,Medium,Loss Realized,28
+RE442,2023,CVS,E-Commerce,Financial,Regulatory Non-Compliance,0.89,16.45,0.24,13.67,29.13,1,4,0.78,9695.0,7562.0,Low,Loss Avoided,4
+RE443,2019,Walmart,Consumer Electronics,Compliance,Revenue Loss,0.6,16.29,-1.71,10.07,24.16,5,9,0.31,304.0,94.0,High,Loss Avoided,45
+RE444,2024,Costco,Retail,Competitive,Customer Attrition,0.53,14.25,2.85,4.82,5.61,5,6,0.45,14407.0,6483.0,Medium,Loss Avoided,30
+RE445,2023,CVS,Consumer Electronics,Financial,Regulatory Non-Compliance,0.77,19.53,-3.44,3.48,28.83,3,4,0.7,717.0,502.0,Low,Loss Realized,12
+RE446,2024,Costco,Pharmacy,Financial,Regulatory Non-Compliance,0.33,5.52,0.29,5.12,16.98,9,8,0.67,2189.0,1467.0,High,Loss Realized,72
+RE447,2019,Dollar General,Retail,Reputational,Customer Attrition,0.44,18.28,1.59,2.61,27.57,1,4,0.94,260.0,244.0,Low,Loss Avoided,4
+RE448,2024,Target,Pharmacy,Compliance,Regulatory Non-Compliance,0.31,15.68,-0.53,14.18,18.66,3,8,0.25,8525.0,2131.0,Medium,Opportunity Captured,24
+RE449,2020,CVS,E-Commerce,Financial,Data Breach,0.73,22.45,-3.47,11.98,5.75,7,4,0.65,13987.0,9092.0,Medium,Loss Avoided,28
+RE450,2019,Amazon,Retail,Competitive,Market Share Erosion,0.56,21.26,0.29,7.47,7.95,9,8,0.6,10006.0,6004.0,High,Loss Avoided,72
+RE451,2019,Costco,Pharmacy,Reputational,Supply Chain Disruption,0.63,8.22,-5.76,13.11,14.27,1,4,0.87,12349.0,10744.0,Low,Partial Loss,4
+RE452,2019,Home Depot,E-Commerce,Technology,Market Share Erosion,0.3,7.27,-4.4,4.49,22.65,5,4,0.19,249.0,47.0,Medium,Loss Avoided,20
+RE453,2018,Amazon,Consumer Electronics,Financial,Regulatory Non-Compliance,0.28,24.55,-1.99,11.04,6.13,1,2,0.73,8153.0,5952.0,Low,Loss Realized,2
+RE454,2018,Walgreens,E-Commerce,Competitive,Data Breach,0.49,13.42,-1.67,12.99,15.29,5,8,0.56,6920.0,3875.0,High,Loss Avoided,40
+RE455,2018,Walgreens,Grocery,Operational,Legacy Integration Failure,0.69,22.71,-7.76,5.99,7.1,9,8,0.3,7510.0,2253.0,High,Loss Realized,72
+RE456,2020,Walmart,E-Commerce,Competitive,Regulatory Non-Compliance,0.52,4.52,2.4,11.6,23.55,5,8,0.48,1130.0,542.0,High,Opportunity Captured,40
+RE457,2023,Target,E-Commerce,Competitive,Revenue Loss,0.13,16.25,-0.34,5.13,11.34,7,1,0.35,10282.0,3599.0,Low,Loss Realized,7
+RE458,2024,Dollar General,Grocery,Reputational,Data Breach,0.79,20.34,-2.55,5.18,-2.31,5,4,0.57,7573.0,4317.0,Medium,Loss Avoided,20
+RE459,2022,CVS,Pharmacy,Technology,Customer Attrition,0.15,23.71,2.26,2.5,0.81,7,8,0.85,11489.0,9766.0,High,Loss Realized,56
+RE460,2019,Kroger,Pharmacy,Operational,Data Breach,0.86,8.76,-3.17,7.16,-2.86,9,9,0.56,7305.0,4091.0,High,Loss Realized,81
+RE461,2024,Home Depot,E-Commerce,Compliance,Customer Attrition,0.12,18.26,2.78,11.22,12.48,9,1,0.62,2283.0,1415.0,Low,Partial Loss,9
+RE462,2019,Costco,Grocery,Compliance,Vendor Dependency,0.66,13.7,-2.36,14.16,-1.28,1,2,0.52,9741.0,5065.0,Low,Loss Realized,2
+RE463,2020,Dollar General,Grocery,Competitive,Supply Chain Disruption,0.17,1.99,-6.74,9.45,-1.01,7,8,0.1,2627.0,263.0,High,Loss Realized,56
+RE464,2019,Amazon,Consumer Electronics,Reputational,Workforce Resistance,0.83,17.4,0.41,13.08,27.94,7,8,0.26,13092.0,3404.0,High,Loss Avoided,56
+RE465,2018,Walgreens,Pharmacy,Reputational,Data Breach,0.47,17.41,-0.53,12.51,25.54,3,1,0.49,9216.0,4516.0,Low,Loss Realized,3
+RE466,2022,Home Depot,Retail,Compliance,AI Model Failure,0.21,23.3,0.5,3.43,10.82,3,4,0.33,2400.0,792.0,Low,Loss Realized,12
+RE467,2021,Kroger,Pharmacy,Operational,Revenue Loss,0.37,12.68,2.47,7.8,29.5,3,9,0.21,14437.0,3032.0,Medium,Partial Loss,27
+RE468,2019,CVS,Pharmacy,Technology,Regulatory Non-Compliance,0.23,6.14,0.54,2.64,-4.99,5,2,0.5,7800.0,3900.0,Low,Partial Loss,10
+RE469,2024,Walmart,Consumer Electronics,Operational,Revenue Loss,0.24,1.59,-1.28,10.55,16.49,3,8,0.34,1140.0,388.0,Medium,Opportunity Captured,24
+RE470,2018,Kroger,Retail,Financial,Market Share Erosion,0.86,10.68,1.43,14.3,16.57,7,4,0.28,9421.0,2638.0,Medium,Partial Loss,28
+RE471,2021,Home Depot,Consumer Electronics,Financial,Workforce Resistance,0.46,7.9,-0.59,2.92,11.01,5,9,0.47,3835.0,1802.0,High,Loss Avoided,45
+RE472,2022,Kroger,Retail,Technology,Market Share Erosion,0.73,19.15,-3.51,11.27,8.89,9,9,0.17,12065.0,2051.0,High,Loss Realized,81
+RE473,2021,Home Depot,E-Commerce,Compliance,Vendor Dependency,0.61,9.18,1.74,9.85,10.94,1,2,0.88,12276.0,10803.0,Low,Partial Loss,2
+RE474,2018,Home Depot,Retail,Technology,Workforce Resistance,0.64,23.75,-5.56,9.17,9.52,3,6,0.83,14685.0,12189.0,Medium,Partial Loss,18
+RE475,2023,Best Buy,Consumer Electronics,Reputational,Workforce Resistance,0.21,24.08,-0.14,6.46,20.57,9,9,0.69,7553.0,5212.0,High,Partial Loss,81
+RE476,2023,Costco,Pharmacy,Financial,Market Share Erosion,0.29,15.71,1.7,5.97,-0.26,7,6,0.15,6852.0,1028.0,High,Loss Avoided,42
+RE477,2021,Walgreens,Retail,Competitive,Customer Attrition,0.73,23.25,0.04,1.63,1.92,1,9,0.75,11314.0,8486.0,Low,Loss Realized,9
+RE478,2020,Best Buy,Retail,Competitive,Market Share Erosion,0.88,19.14,-0.33,4.05,1.32,9,2,0.78,2030.0,1583.0,Medium,Partial Loss,18
+RE479,2024,CVS,Grocery,Compliance,Revenue Loss,0.31,13.9,0.28,1.21,4.19,1,1,0.74,8226.0,6087.0,Low,Partial Loss,1
+RE480,2024,Best Buy,Pharmacy,Reputational,Customer Attrition,0.32,4.92,-2.88,9.14,13.38,3,2,0.15,8216.0,1232.0,Low,Opportunity Captured,6
+RE481,2021,Target,E-Commerce,Operational,Revenue Loss,0.48,11.74,1.62,2.48,-1.11,7,2,0.63,1388.0,874.0,Low,Loss Realized,14
+RE482,2019,Target,Consumer Electronics,Reputational,Vendor Dependency,0.89,14.24,-5.76,13.22,25.39,1,1,0.8,6299.0,5039.0,Low,Loss Realized,1
+RE483,2019,Walgreens,E-Commerce,Competitive,Regulatory Non-Compliance,0.32,21.67,-6.6,8.32,5.41,9,1,0.57,12807.0,7300.0,Low,Loss Realized,9
+RE484,2024,Kroger,Pharmacy,Competitive,Legacy Integration Failure,0.43,12.29,-4.86,10.8,0.69,3,4,0.63,12849.0,8095.0,Low,Partial Loss,12
+RE485,2024,Costco,Retail,Financial,Customer Attrition,0.81,22.49,-2.15,6.75,18.65,3,9,0.46,1534.0,706.0,Medium,Loss Realized,27
+RE486,2023,Walgreens,Retail,Reputational,Vendor Dependency,0.1,17.02,-2.38,8.85,-3.67,9,4,0.53,1406.0,745.0,Medium,Loss Realized,36
+RE487,2020,Home Depot,Pharmacy,Reputational,AI Model Failure,0.13,3.86,1.03,14.2,16.7,9,1,0.08,3977.0,318.0,Low,Opportunity Captured,9
+RE488,2018,Amazon,Retail,Competitive,Vendor Dependency,0.58,24.88,-3.55,2.16,19.44,1,6,0.63,13128.0,8271.0,Low,Loss Realized,6
+RE489,2019,Costco,Retail,Operational,Market Share Erosion,0.83,13.42,-2.67,4.56,2.52,5,6,0.12,1977.0,237.0,Medium,Partial Loss,30
+RE490,2024,Costco,Retail,Compliance,Market Share Erosion,0.29,10.1,-7.85,11.92,-3.53,3,2,0.44,10814.0,4758.0,Low,Loss Avoided,6
+RE491,2023,Home Depot,Consumer Electronics,Compliance,Legacy Integration Failure,0.48,16.65,-3.49,2.38,7.73,1,8,0.31,1562.0,484.0,Low,Partial Loss,8
+RE492,2022,Home Depot,Consumer Electronics,Reputational,Vendor Dependency,0.46,3.17,-0.87,2.06,-1.55,9,2,0.54,9366.0,5058.0,Medium,Loss Avoided,18
+RE493,2023,Walmart,Grocery,Compliance,Supply Chain Disruption,0.48,16.1,-7.83,6.06,-0.92,1,2,0.17,5373.0,913.0,Low,Opportunity Captured,2
+RE494,2019,Walgreens,E-Commerce,Competitive,Regulatory Non-Compliance,0.6,12.71,-4.91,2.29,3.9,9,8,0.67,11844.0,7935.0,High,Opportunity Captured,72
+RE495,2019,Home Depot,Pharmacy,Competitive,Market Share Erosion,0.48,10.46,-5.71,9.19,5.34,7,9,0.77,3544.0,2729.0,High,Loss Realized,63
+RE496,2023,Target,Pharmacy,Reputational,Legacy Integration Failure,0.46,23.85,-7.54,4.17,13.55,9,1,0.2,9606.0,1921.0,Low,Loss Realized,9
+RE497,2018,CVS,Pharmacy,Reputational,Regulatory Non-Compliance,0.48,13.3,-2.73,13.54,18.74,9,6,0.14,3573.0,500.0,High,Loss Realized,54
+RE498,2021,Amazon,Grocery,Financial,Vendor Dependency,0.57,5.87,-6.0,11.97,15.75,9,2,0.18,10719.0,1929.0,Medium,Loss Avoided,18
+RE499,2019,Walgreens,Consumer Electronics,Reputational,Vendor Dependency,0.53,11.74,0.17,10.8,0.19,5,8,0.84,13111.0,11013.0,High,Partial Loss,40
+RE500,2023,Dollar General,Grocery,Operational,Workforce Resistance,0.78,23.02,1.33,9.64,1.02,9,4,0.53,1946.0,1031.0,Medium,Loss Avoided,36
