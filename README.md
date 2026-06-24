@@ -1,4 +1,4 @@
-# ALY-6130 Group 9 — Walmart AI Transformation ERM Project
+# ALY 6130 Group 9  Walmart AI Transformation ERM Project
 
 ## Project Overview
 This repository contains the Enterprise Risk Management (ERM) analysis for Walmart Inc.'s AI Transformation initiative. The project applies the COSO ERM framework to identify, assess, and monitor competitive risks associated with Walmart's large-scale AI deployment across its frontline operations, supply chain, and customer experience functions.
